@@ -25,6 +25,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### 📜 Son yazılarım / just in turkish
+{{range rss "https://emre.xyz/tag:tr/feed/" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
