@@ -16,7 +16,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (2 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (3 months ago)
 - [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (3 months ago)
-- [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (3 months ago)
+- [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [ilker0](https://github.com/ilker0)
+- [edisdev](https://github.com/edisdev)
 - [fatmactn](https://github.com/fatmactn)
 - [BaseMax](https://github.com/BaseMax)
 - [mzahirr](https://github.com/mzahirr)
-- [caioagiani](https://github.com/caioagiani)
-- [berkaycoban](https://github.com/berkaycoban)
 
 #### 📫 How to reach me
 
