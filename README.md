@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 day ago)
+- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (2 days ago)
 - [delirehberi/sevencups-dev-env](https://github.com/delirehberi/sevencups-dev-env) -  (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (1 month ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [apo-bozdag](https://github.com/apo-bozdag)
 - [eymel](https://github.com/eymel)
 - [semihsemih](https://github.com/semihsemih)
 - [ilker0](https://github.com/ilker0)
 - [edisdev](https://github.com/edisdev)
-- [fatmactn](https://github.com/fatmactn)
 
 #### 📫 How to reach me
 
