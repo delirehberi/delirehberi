@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (2 days ago)
+- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (3 days ago)
 - [delirehberi/sevencups-dev-env](https://github.com/delirehberi/sevencups-dev-env) -  (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (1 month ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
@@ -15,7 +15,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (1 month ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (3 months ago)
-- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (3 months ago)
+- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (4 months ago)
 - [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [muhammetkaya](https://github.com/muhammetkaya)
+- [aykutkardas](https://github.com/aykutkardas)
 - [apo-bozdag](https://github.com/apo-bozdag)
 - [eymel](https://github.com/eymel)
 - [semihsemih](https://github.com/semihsemih)
-- [ilker0](https://github.com/ilker0)
-- [edisdev](https://github.com/edisdev)
 
 #### 📫 How to reach me
 
