@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (5 days ago)
+- [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (6 days ago)
 - [delirehberi/sevencups-dev-env](https://github.com/delirehberi/sevencups-dev-env) -  (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (1 month ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
@@ -44,7 +44,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (1 month ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (2 months ago)
 - [Doctrine - PostgreSQL fonksiyonları](https://emre.xyz/doctrine-postgresql-fonksiyonlari) (2 months ago)
-- [Tmux&#39;a hafif bir giriş](https://emre.xyz/tmuxa-hafif-bir-giris) (2 months ago)
+- [Tmux&#39;a hafif bir giriş](https://emre.xyz/tmuxa-hafif-bir-giris) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
