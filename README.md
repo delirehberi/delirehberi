@@ -41,7 +41,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 📜 Son yazılarım / just in turkish
 
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (1 month ago)
-- [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (1 month ago)
+- [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (2 months ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (2 months ago)
 - [Doctrine - PostgreSQL fonksiyonları](https://emre.xyz/doctrine-postgresql-fonksiyonlari) (3 months ago)
 - [Tmux&#39;a hafif bir giriş](https://emre.xyz/tmuxa-hafif-bir-giris) (3 months ago)
