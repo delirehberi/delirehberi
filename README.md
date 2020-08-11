@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [oztek](https://github.com/oztek)
 - [anilldemirell](https://github.com/anilldemirell)
 - [doganaktarr](https://github.com/doganaktarr)
 - [MeteALANLI](https://github.com/MeteALANLI)
 - [muhammetkaya](https://github.com/muhammetkaya)
-- [aykutkardas](https://github.com/aykutkardas)
 
 #### 📫 How to reach me
 
