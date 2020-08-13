@@ -34,7 +34,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (1 month ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (5 months ago)
-- [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (6 months ago)
+- [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
 - [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
 - [How to install NixOs to a Vultr instance?](https://emre.xyz/how-to-install-nixos-to-a-vultr-instance) (1 year ago)
 
@@ -42,17 +42,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (1 month ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (2 months ago)
-- [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (2 months ago)
+- [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (3 months ago)
 - [Doctrine - PostgreSQL fonksiyonları](https://emre.xyz/doctrine-postgresql-fonksiyonlari) (3 months ago)
 - [Tmux&#39;a hafif bir giriş](https://emre.xyz/tmuxa-hafif-bir-giris) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [alpers](https://github.com/alpers)
 - [memreyilmaz](https://github.com/memreyilmaz)
 - [oztek](https://github.com/oztek)
 - [anilldemirell](https://github.com/anilldemirell)
 - [doganaktarr](https://github.com/doganaktarr)
-- [MeteALANLI](https://github.com/MeteALANLI)
 
 #### 📫 How to reach me
 
