@@ -9,7 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (2 weeks ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (1 month ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (2 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 months ago)
@@ -32,11 +32,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
+- [Nix](https://emre.xyz/nix) (2 weeks ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (5 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
 - [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
-- [How to install NixOs to a Vultr instance?](https://emre.xyz/how-to-install-nixos-to-a-vultr-instance) (1 year ago)
 
 #### 📜 Son yazılarım / just in turkish
 
