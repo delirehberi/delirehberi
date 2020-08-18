@@ -56,6 +56,5 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/delirehberi
 - Fediverse: https://mastodon.social/@delirehberi
 - Blog: https://emre.xyz
