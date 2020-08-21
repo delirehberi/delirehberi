@@ -7,9 +7,9 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (4 days ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (5 days ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (3 weeks ago)
-- [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (1 month ago)
+- [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (2 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 months ago)
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [oguzdumanoglu](https://github.com/oguzdumanoglu)
 - [alpers](https://github.com/alpers)
 - [memreyilmaz](https://github.com/memreyilmaz)
 - [oztek](https://github.com/oztek)
 - [anilldemirell](https://github.com/anilldemirell)
-- [doganaktarr](https://github.com/doganaktarr)
 
 #### 📫 How to reach me
 
