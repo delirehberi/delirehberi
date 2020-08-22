@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (5 days ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (6 days ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (3 weeks ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (2 months ago)
@@ -32,7 +32,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [Nix](https://emre.xyz/nix) (2 weeks ago)
+- [Nix](https://emre.xyz/nix) (3 weeks ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (5 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [dagarceren](https://github.com/dagarceren)
 - [oguzdumanoglu](https://github.com/oguzdumanoglu)
 - [alpers](https://github.com/alpers)
 - [memreyilmaz](https://github.com/memreyilmaz)
 - [oztek](https://github.com/oztek)
-- [anilldemirell](https://github.com/anilldemirell)
 
 #### 📫 How to reach me
 
