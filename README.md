@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (6 days ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 week ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (3 weeks ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (2 months ago)
@@ -34,7 +34,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [Nix](https://emre.xyz/nix) (3 weeks ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
-- [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (5 months ago)
+- [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (6 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
 - [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
 
