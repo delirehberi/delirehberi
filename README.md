@@ -32,7 +32,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [Nix](https://emre.xyz/nix) (3 weeks ago)
+- [Nix](https://emre.xyz/nix) (4 weeks ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (6 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
