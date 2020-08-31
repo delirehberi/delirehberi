@@ -14,7 +14,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (4 months ago)
-- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (4 months ago)
+- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (5 months ago)
 - [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (5 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 months ago)
 
@@ -32,7 +32,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [Nix](https://emre.xyz/nix) (4 weeks ago)
+- [Nix](https://emre.xyz/nix) (1 month ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (6 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (7 months ago)
@@ -40,19 +40,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
+- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (1 day ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (2 months ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (3 months ago)
 - [Doctrine - PostgreSQL fonksiyonları](https://emre.xyz/doctrine-postgresql-fonksiyonlari) (3 months ago)
-- [Tmux&#39;a hafif bir giriş](https://emre.xyz/tmuxa-hafif-bir-giris) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [buroz](https://github.com/buroz)
 - [dagarceren](https://github.com/dagarceren)
 - [oguzdumanoglu](https://github.com/oguzdumanoglu)
 - [alpers](https://github.com/alpers)
 - [memreyilmaz](https://github.com/memreyilmaz)
-- [oztek](https://github.com/oztek)
 
 #### 📫 How to reach me
 
