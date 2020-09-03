@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (1 day ago)
+- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (2 days ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 weeks ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
@@ -40,7 +40,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (3 days ago)
+- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (4 days ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (2 months ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (3 months ago)
@@ -48,11 +48,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [aerkanc](https://github.com/aerkanc)
 - [buroz](https://github.com/buroz)
 - [dagarceren](https://github.com/dagarceren)
 - [oguzdumanoglu](https://github.com/oguzdumanoglu)
 - [alpers](https://github.com/alpers)
-- [memreyilmaz](https://github.com/memreyilmaz)
 
 #### 📫 How to reach me
 
