@@ -7,13 +7,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (2 days ago)
+- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (3 days ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 weeks ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (2 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 months ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (4 months ago)
 - [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (5 months ago)
 - [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (5 months ago)
@@ -40,19 +40,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (4 days ago)
+- [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (1 day ago)
+- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (5 days ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (2 months ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (3 months ago)
-- [Doctrine - PostgreSQL fonksiyonları](https://emre.xyz/doctrine-postgresql-fonksiyonlari) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [edglaz](https://github.com/edglaz)
 - [aerkanc](https://github.com/aerkanc)
 - [buroz](https://github.com/buroz)
 - [dagarceren](https://github.com/dagarceren)
 - [oguzdumanoglu](https://github.com/oguzdumanoglu)
-- [alpers](https://github.com/alpers)
 
 #### 📫 How to reach me
 
