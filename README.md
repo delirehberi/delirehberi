@@ -7,7 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (4 days ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (5 days ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (1 week ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (2 months ago)
@@ -40,7 +40,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (6 days ago)
+- [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (1 week ago)
 - [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (1 week ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (3 months ago)
