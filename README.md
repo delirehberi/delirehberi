@@ -15,16 +15,16 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (3 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (4 months ago)
-- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source (5 months ago)
-- [delirehberi/symfony-lesson](https://github.com/delirehberi/symfony-lesson) -  (5 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 months ago)
+- [delirehberi/i3blocks-scripts](https://github.com/delirehberi/i3blocks-scripts) - i3Blocks custom scripts (6 months ago)
 
 #### 🌱 My latest projects
 
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) - 
-- [delirehberi/bilimma-frontend](https://github.com/delirehberi/bilimma-frontend) - Bilimma.com next frontend source
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs.
 - [delirehberi/devcollect](https://github.com/delirehberi/devcollect) - demo project
+- [delirehberi/inalys](https://github.com/delirehberi/inalys) - learning project
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,7 +33,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 📜 My recent blog posts / just in english
 
 - [Nix](https://emre.xyz/nix) (1 month ago)
-- [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 months ago)
+- [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (3 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (6 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (8 months ago)
 - [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
@@ -41,7 +41,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 📜 Son yazılarım / just in turkish
 
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (1 week ago)
-- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (1 week ago)
+- [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (2 weeks ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
 - [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (3 months ago)
 - [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (4 months ago)
