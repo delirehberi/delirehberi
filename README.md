@@ -7,6 +7,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 days ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 week ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (2 weeks ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
@@ -16,15 +17,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (4 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 months ago)
-- [delirehberi/i3blocks-scripts](https://github.com/delirehberi/i3blocks-scripts) - i3Blocks custom scripts (6 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) - 
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs.
 - [delirehberi/devcollect](https://github.com/delirehberi/devcollect) - demo project
-- [delirehberi/inalys](https://github.com/delirehberi/inalys) - learning project
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,11 +40,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
+- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 day ago)
+- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 day ago)
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (1 week ago)
 - [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (2 weeks ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (2 months ago)
-- [2020 Hedeflerim - Üçüncü Çeyrek](https://emre.xyz/2020-hedeflerim-ucuncu-ceyrek) (3 months ago)
-- [Çocuğumla evde nasıl daha verimli vakit geçirebilirim?](https://emre.xyz/cocugumla-evde-nasil-daha-verimli-vakit-gecirebilirim) (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
