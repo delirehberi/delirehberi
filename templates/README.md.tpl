@@ -5,6 +5,9 @@
 
 I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
+![Stats](https://github-readme-stats.vercel.app/api/?username=delirehberi&show_icons=true&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -41,4 +44,3 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - Blog: https://emre.xyz
 - Linkedin: https://linkedin.com/in/delirehberi
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
