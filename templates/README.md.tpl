@@ -39,3 +39,6 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - Fediverse: https://mastodon.social/@delirehberi
 - Blog: https://emre.xyz
+- Linkedin: https://linkedin.com/in/delirehberi
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
