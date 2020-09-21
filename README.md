@@ -43,8 +43,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (5 days ago)
-- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (5 days ago)
+- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (6 days ago)
+- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (6 days ago)
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (2 weeks ago)
 - [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (3 weeks ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (3 months ago)
