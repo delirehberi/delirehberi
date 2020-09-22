@@ -12,7 +12,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 week ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 weeks ago)
-- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (2 weeks ago)
+- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (3 weeks ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (3 months ago)
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (3 months ago)
@@ -37,14 +37,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 - [Nix](https://emre.xyz/nix) (1 month ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (3 months ago)
-- [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (6 months ago)
+- [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (7 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (8 months ago)
 - [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (6 days ago)
-- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (6 days ago)
+- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 week ago)
+- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 week ago)
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (2 weeks ago)
 - [Symfony 5 - Doctrine Giriş](https://emre.xyz/symfony-5-doctrine-giris) (3 weeks ago)
 - [Mentörümün mentörü mentörümdür.](https://emre.xyz/mentorumun-mentoru-mentorumdur) (3 months ago)
