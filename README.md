@@ -18,8 +18,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (3 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (3 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 months ago)
-- [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (4 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 months ago)
+- [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (5 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (2 days ago)
+- [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (3 days ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 week ago)
 - [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 week ago)
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (3 weeks ago)
