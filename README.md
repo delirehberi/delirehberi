@@ -11,7 +11,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 👷 Check out what I'm currently working on
 
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 week ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 weeks ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (3 weeks ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (3 weeks ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (1 month ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (3 months ago)
@@ -43,7 +43,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (3 days ago)
+- [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (4 days ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 week ago)
 - [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 week ago)
 - [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (3 weeks ago)
