@@ -35,7 +35,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [Nix](https://emre.xyz/nix) (1 month ago)
+- [Nix](https://emre.xyz/nix) (2 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (3 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (7 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (8 months ago)
@@ -51,11 +51,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [alicanerdurmaz](https://github.com/alicanerdurmaz)
+- [erdalturan](https://github.com/erdalturan)
 - [ekurt](https://github.com/ekurt)
 - [rahmiy](https://github.com/rahmiy)
 - [beyefendi](https://github.com/beyefendi)
-- [gkreatif](https://github.com/gkreatif)
-- [deremakif](https://github.com/deremakif)
 
 #### 📫 How to reach me
 
