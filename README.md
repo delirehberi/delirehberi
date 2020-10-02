@@ -51,11 +51,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [MehmetNurii](https://github.com/MehmetNurii)
 - [alicanerdurmaz](https://github.com/alicanerdurmaz)
 - [erdalturan](https://github.com/erdalturan)
 - [ekurt](https://github.com/ekurt)
 - [rahmiy](https://github.com/rahmiy)
-- [beyefendi](https://github.com/beyefendi)
 
 #### 📫 How to reach me
 
