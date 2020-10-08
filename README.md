@@ -43,11 +43,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (2 days ago)
+- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (1 day ago)
+- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (3 days ago)
 - [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (2 weeks ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (3 weeks ago)
 - [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (3 weeks ago)
-- [Hakettiğini yaşamak!](https://emre.xyz/hakettigini-yasamak) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
