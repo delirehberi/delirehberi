@@ -10,7 +10,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (5 days ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (6 days ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (1 month ago)
@@ -45,8 +45,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (1 week ago)
 - [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (1 week ago)
 - [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (3 weeks ago)
-- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (4 weeks ago)
-- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (4 weeks ago)
+- [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 month ago)
+- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
