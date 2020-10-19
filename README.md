@@ -10,6 +10,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
+- [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (1 day ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 week ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
@@ -19,15 +20,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) -  (4 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (4 months ago)
 - [delirehberi/php7-symfony](https://github.com/delirehberi/php7-symfony) - PHP7 build for symfony development (5 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (6 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself.
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla
 - [delirehberi/devchallenge-php-oop](https://github.com/delirehberi/devchallenge-php-oop) - 
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs.
-- [delirehberi/devcollect](https://github.com/delirehberi/devcollect) - demo project
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,7 +43,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 📜 Son yazılarım / just in turkish
 
 - [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (1 week ago)
-- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (1 week ago)
+- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (2 weeks ago)
 - [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (3 weeks ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 month ago)
 - [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 month ago)
