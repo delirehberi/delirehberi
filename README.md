@@ -34,15 +34,15 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
+- [I Quit!](https://emre.xyz/i-quit) (1 day ago)
 - [Nix](https://emre.xyz/nix) (2 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (4 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (8 months ago)
 - [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (9 months ago)
-- [Composer is not a builder.](https://emre.xyz/composer-is-not-a-builder) (1 year ago)
 
 #### 📜 Son yazılarım / just in turkish
 
-- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (2 weeks ago)
+- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (3 weeks ago)
 - [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (3 weeks ago)
 - [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (1 month ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 month ago)
