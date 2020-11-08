@@ -10,10 +10,10 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (2 weeks ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 weeks ago)
+- [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (3 weeks ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 month ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (2 months ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (3 months ago)
 - [haskellturkiye/nixops-google-cloud-deployment-ornek](https://github.com/haskellturkiye/nixops-google-cloud-deployment-ornek) - Nixops ile Google Cloud üzerinde deployment örneği (4 months ago)
@@ -34,7 +34,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [I Quit!](https://emre.xyz/i-quit) (4 days ago)
+- [I Quit!](https://emre.xyz/i-quit) (1 week ago)
 - [Nix](https://emre.xyz/nix) (3 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (4 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (8 months ago)
@@ -42,19 +42,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 Son yazılarım / just in turkish
 
-- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (3 weeks ago)
-- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (3 weeks ago)
+- [5 lira bağış mı olur?](https://emre.xyz/5-lira-bagis-mi-olur) (1 day ago)
+- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (1 month ago)
+- [Tiramisu Tarifi](https://emre.xyz/tiramisu-tarifi) (1 month ago)
 - [İş İlanında Maaş Olmaz!](https://emre.xyz/is-ilaninda-maas-olmaz) (1 month ago)
 - [Saksıya sığmamak! - Yazılımcıların sık iş değiştirmesi üzerine](https://emre.xyz/saksiya-sigmamak-yazilimcilarin-sik-is-degistirmesi-uzerine) (1 month ago)
-- [Kendi Blogunu Kendin Kodla!](https://emre.xyz/kendi-blogunu-kendin-kodla) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [tellotello](https://github.com/tellotello)
 - [trk](https://github.com/trk)
 - [katrushenkov](https://github.com/katrushenkov)
 - [Odabasyusuf](https://github.com/Odabasyusuf)
 - [MehmetNurii](https://github.com/MehmetNurii)
-- [alicanerdurmaz](https://github.com/alicanerdurmaz)
 
 #### 📫 How to reach me
 
