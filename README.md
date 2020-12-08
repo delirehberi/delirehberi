@@ -10,11 +10,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (1 day ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 day ago)
-- [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (2 days ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 days ago)
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 weeks ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (6 days ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (1 week ago)
+- [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (1 week ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 week ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 weeks ago)
 - [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (1 month ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (3 months ago)
 - [delirehberi/spotifyctl](https://github.com/delirehberi/spotifyctl) - Spotify control tool (4 months ago)
@@ -34,27 +34,27 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
+- [What i want](https://emre.xyz/what-i-want) (6 days ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 month ago)
 - [Nix](https://emre.xyz/nix) (4 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (5 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (9 months ago)
-- [How to use Voter capabilities with Workflow in Symfony?](https://emre.xyz/how-to-use-voter-capabilities-with-workflow-in-symfony) (10 months ago)
 
 #### 📜 Son yazılarım / just in turkish
 
-- [On Yıl Önce!](https://emre.xyz/on-yil-once) (1 day ago)
-- [Nostalji Sever](https://emre.xyz/nostalji-sever) (1 week ago)
-- [Kendi Blogunu Kendin Kodla - 4 - Symfony Form Components](https://emre.xyz/kendi-blogunu-kendin-kodla-4-symfony-form-components) (2 weeks ago)
-- [5 lira bağış mı olur?](https://emre.xyz/5-lira-bagis-mi-olur) (3 weeks ago)
-- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (1 month ago)
+- [On Yıl Önce!](https://emre.xyz/on-yil-once) (1 week ago)
+- [Nostalji Sever](https://emre.xyz/nostalji-sever) (2 weeks ago)
+- [Kendi Blogunu Kendin Kodla - 4 - Symfony Form Components](https://emre.xyz/kendi-blogunu-kendin-kodla-4-symfony-form-components) (3 weeks ago)
+- [5 lira bağış mı olur?](https://emre.xyz/5-lira-bagis-mi-olur) (1 month ago)
+- [2020 Hedeflerim - Son Çeyrek](https://emre.xyz/2020-hedeflerim-son-ceyrek) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [koluacik](https://github.com/koluacik)
 - [yasinerkan](https://github.com/yasinerkan)
 - [filiumbelli](https://github.com/filiumbelli)
 - [figenkrkmz](https://github.com/figenkrkmz)
 - [ozanh](https://github.com/ozanh)
-- [taylanguneyaktas](https://github.com/taylanguneyaktas)
 
 #### 📫 How to reach me
 
