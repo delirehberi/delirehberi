@@ -5,7 +5,6 @@
 
 I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=delirehberi&show_icons=true&include_all_commits=true&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
 #### 👷 Check out what I'm currently working on
@@ -16,11 +15,6 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts / just in english
@@ -43,4 +37,5 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - Fediverse: https://mastodon.social/@delirehberi
 - Blog: https://emre.xyz
 - Linkedin: https://linkedin.com/in/delirehberi
+- Twitter: https://twitter.com/delirehberi
 
