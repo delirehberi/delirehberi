@@ -9,10 +9,10 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 weeks ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 weeks ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (3 weeks ago)
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (3 weeks ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (3 weeks ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (4 weeks ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (4 weeks ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 month ago)
 - [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (2 months ago)
@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 📜 My recent blog posts / just in english
 
-- [What i want](https://emre.xyz/what-i-want) (1 month ago)
+- [What i want](https://emre.xyz/what-i-want) (2 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (3 months ago)
 - [Nix](https://emre.xyz/nix) (6 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (7 months ago)
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 
 #### 👯 Check out some of my recent followers
 
+- [ibrahimtuksal](https://github.com/ibrahimtuksal)
 - [zeydduran](https://github.com/zeydduran)
 - [sn4dy](https://github.com/sn4dy)
 - [ramazansancar](https://github.com/ramazansancar)
 - [emrevural20](https://github.com/emrevural20)
-- [Arshiash80](https://github.com/Arshiash80)
 
 #### 📫 How to reach me
 
