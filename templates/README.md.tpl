@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
-I'm Emre, a web developer, especially experienced on PHP and Symfony.
+I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at 7Cups.com since June 2020. 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
@@ -32,10 +32,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony.
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 📫 How to reach me
+#### 📫 come with me
 
-- Fediverse: https://mastodon.social/@delirehberi
 - Blog: https://emre.xyz
 - Linkedin: https://linkedin.com/in/delirehberi
 - Twitter: https://twitter.com/delirehberi
+- Youtube: https://www.youtube.com/c/EmreYILMAZ
+- Podcasts: https://anchor.fm/delirehberi
+- Soundcloud: https://soundcloud.com/delirehberi
+
 
