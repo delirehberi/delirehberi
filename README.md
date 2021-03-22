@@ -9,13 +9,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (4 days ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 week ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (today)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 week ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 weeks ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (2 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
 - [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (2 months ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (2 months ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
 - [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (3 months ago)
 - [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (5 months ago)
 - [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (6 months ago)
@@ -38,19 +38,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 week ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (3 days ago)
+- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (2 weeks ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 month ago)
 - [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (2 months ago)
 - [Karikatür davaları](https://emre.xyz/karikatur-davalari) (3 months ago)
-- [On Yıl Önce!](https://emre.xyz/on-yil-once) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [Socehri](https://github.com/Socehri)
 - [enes-dev](https://github.com/enes-dev)
 - [uenal](https://github.com/uenal)
 - [enamkirgec](https://github.com/enamkirgec)
 - [ibrahimtuksal](https://github.com/ibrahimtuksal)
+- [zeydduran](https://github.com/zeydduran)
 
 #### 📫 come with me
 
