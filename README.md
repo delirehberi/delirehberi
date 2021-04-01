@@ -9,6 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 days ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 week ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 weeks ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 weeks ago)
@@ -18,7 +19,6 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
 - [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (4 months ago)
 - [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (5 months ago)
-- [workouse/popup-sylius](https://github.com/workouse/popup-sylius) - Popup plugin for sylius ecommerce (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [What i want](https://emre.xyz/what-i-want) (3 months ago)
+- [What i want](https://emre.xyz/what-i-want) (4 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (5 months ago)
 - [Nix](https://emre.xyz/nix) (8 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (9 months ago)
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [sevdagulbaran](https://github.com/sevdagulbaran)
 - [enes-dev](https://github.com/enes-dev)
 - [uenal](https://github.com/uenal)
 - [enamkirgec](https://github.com/enamkirgec)
 - [ibrahimtuksal](https://github.com/ibrahimtuksal)
-- [zeydduran](https://github.com/zeydduran)
 
 #### 📫 come with me
 
