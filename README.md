@@ -9,14 +9,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 days ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 week ago)
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 weeks ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 weeks ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 week ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 week ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (2 weeks ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 months ago)
-- [hmert/love](https://github.com/hmert/love) - :heart: (2 months ago)
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (2 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (2 months ago)
+- [hmert/love](https://github.com/hmert/love) - :heart: (3 months ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (3 months ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (3 months ago)
 - [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (4 months ago)
 - [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (5 months ago)
 
@@ -38,19 +38,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 week ago)
-- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (3 weeks ago)
-- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 month ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (2 weeks ago)
+- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 month ago)
+- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (2 months ago)
 - [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (2 months ago)
 - [Karikatür davaları](https://emre.xyz/karikatur-davalari) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [serkocal](https://github.com/serkocal)
 - [sevdagulbaran](https://github.com/sevdagulbaran)
 - [enes-dev](https://github.com/enes-dev)
 - [uenal](https://github.com/uenal)
 - [enamkirgec](https://github.com/enamkirgec)
-- [ibrahimtuksal](https://github.com/ibrahimtuksal)
 
 #### 📫 come with me
 
