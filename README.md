@@ -9,15 +9,15 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (3 weeks ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 weeks ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (4 weeks ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 month ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 month ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (3 months ago)
 - [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (3 months ago)
 - [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (3 months ago)
-- [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (4 months ago)
+- [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects (5 months ago)
 - [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself. (6 months ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 My recent blog posts / just in english
 
 - [What i want](https://emre.xyz/what-i-want) (4 months ago)
-- [I Quit!](https://emre.xyz/i-quit) (5 months ago)
-- [Nix](https://emre.xyz/nix) (8 months ago)
+- [I Quit!](https://emre.xyz/i-quit) (6 months ago)
+- [Nix](https://emre.xyz/nix) (9 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (10 months ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (1 year ago)
 
