@@ -9,7 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (4 weeks ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 month ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 month ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 month ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 month ago)
@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [What i want](https://emre.xyz/what-i-want) (4 months ago)
+- [What i want](https://emre.xyz/what-i-want) (5 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (6 months ago)
 - [Nix](https://emre.xyz/nix) (9 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (10 months ago)
@@ -49,7 +49,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [notsaiv](https://github.com/notsaiv)
 - [serkocal](https://github.com/serkocal)
 - [sevdagulbaran](https://github.com/sevdagulbaran)
-- [enes-dev](https://github.com/enes-dev)
+- [enesinan](https://github.com/enesinan)
 - [uenal](https://github.com/uenal)
 
 #### 📫 come with me
