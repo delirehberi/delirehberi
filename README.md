@@ -11,7 +11,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 week ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (3 weeks ago)
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 month ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (2 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (2 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (2 months ago)
@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [What i want](https://emre.xyz/what-i-want) (5 months ago)
+- [What i want](https://emre.xyz/what-i-want) (6 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (7 months ago)
 - [Nix](https://emre.xyz/nix) (10 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (11 months ago)
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [devdipakgiri](https://github.com/devdipakgiri)
 - [FerdinaKusumah](https://github.com/FerdinaKusumah)
 - [notsaiv](https://github.com/notsaiv)
 - [serkocal](https://github.com/serkocal)
 - [sevdagulbaran](https://github.com/sevdagulbaran)
-- [enesinan](https://github.com/enesinan)
 
 #### 📫 come with me
 
