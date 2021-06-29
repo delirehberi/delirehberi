@@ -9,10 +9,10 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 weeks ago)
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 week ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (3 weeks ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (1 month ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (2 months ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (3 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (3 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (5 months ago)
@@ -31,8 +31,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 My recent blog posts / just in english
 
 - [What i want](https://emre.xyz/what-i-want) (6 months ago)
-- [I Quit!](https://emre.xyz/i-quit) (7 months ago)
-- [Nix](https://emre.xyz/nix) (10 months ago)
+- [I Quit!](https://emre.xyz/i-quit) (8 months ago)
+- [Nix](https://emre.xyz/nix) (11 months ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (1 year ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (1 year ago)
 
@@ -46,10 +46,10 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [biyonik](https://github.com/biyonik)
 - [shambhu384](https://github.com/shambhu384)
 - [abdullahcicekli](https://github.com/abdullahcicekli)
 - [devdipakgiri](https://github.com/devdipakgiri)
-- [notsaiv](https://github.com/notsaiv)
 - [serkocal](https://github.com/serkocal)
 
 #### 📫 come with me
