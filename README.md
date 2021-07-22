@@ -9,16 +9,16 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 month ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 months ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (3 months ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (4 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (4 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (6 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (6 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (6 months ago)
 - [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (6 months ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (3 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (4 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (4 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (5 months ago)
 - [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (6 months ago)
