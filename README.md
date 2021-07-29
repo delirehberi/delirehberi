@@ -12,7 +12,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 month ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (2 months ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 months ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (4 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (4 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (4 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (6 months ago)
@@ -31,8 +31,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 My recent blog posts / just in english
 
 - [What i want](https://emre.xyz/what-i-want) (7 months ago)
-- [I Quit!](https://emre.xyz/i-quit) (8 months ago)
-- [Nix](https://emre.xyz/nix) (11 months ago)
+- [I Quit!](https://emre.xyz/i-quit) (9 months ago)
+- [Nix](https://emre.xyz/nix) (1 year ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (1 year ago)
 - [Nix Integration for Stack](https://emre.xyz/nix-integration-for-stack) (1 year ago)
 
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
 - [Novusvetus](https://github.com/Novusvetus)
+- [sakuara2111](https://github.com/sakuara2111)
 - [halisakbal1](https://github.com/halisakbal1)
 - [safiyeozdemir](https://github.com/safiyeozdemir)
-- [osmanatam](https://github.com/osmanatam)
-- [biyonik](https://github.com/biyonik)
 
 #### 📫 come with me
 
