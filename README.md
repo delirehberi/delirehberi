@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [What i want](https://emre.xyz/what-i-want) (7 months ago)
+- [What i want](https://emre.xyz/what-i-want) (8 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (9 months ago)
 - [Nix](https://emre.xyz/nix) (1 year ago)
 - [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (1 year ago)
@@ -40,7 +40,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (4 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (4 months ago)
-- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (5 months ago)
+- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (6 months ago)
 - [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (6 months ago)
 - [Karikatür davaları](https://emre.xyz/karikatur-davalari) (7 months ago)
 
