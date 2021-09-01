@@ -9,8 +9,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (6 days ago)
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (3 weeks ago)
+- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (1 week ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (4 weeks ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (3 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (5 months ago)
@@ -18,7 +18,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (5 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (7 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (7 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (7 months ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,19 +38,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (4 weeks ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 month ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (5 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (5 months ago)
-- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (6 months ago)
+- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (7 months ago)
 - [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [caylikadir](https://github.com/caylikadir)
 - [hacker8853](https://github.com/hacker8853)
 - [zendy199x](https://github.com/zendy199x)
 - [tugrulgencoglu](https://github.com/tugrulgencoglu)
 - [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
-- [sakuara2111](https://github.com/sakuara2111)
 
 #### 📫 come with me
 
