@@ -9,8 +9,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (1 week ago)
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (2 weeks ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 weeks ago)
+- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (3 weeks ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (4 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (5 months ago)
@@ -39,18 +39,18 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 Son yazılarım / just in turkish
 
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 month ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (5 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (6 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (6 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (7 months ago)
-- [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (7 months ago)
+- [2021 Yılında Nasıl Yazılımcı Olunur?](https://emre.xyz/2021-yilinda-nasil-yazilimci-olunur) (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [selcux](https://github.com/selcux)
+- [ijagjeet](https://github.com/ijagjeet)
+- [gencoglutugrul](https://github.com/gencoglutugrul)
 - [1MahdiR](https://github.com/1MahdiR)
 - [alperbg](https://github.com/alperbg)
-- [caylikadir](https://github.com/caylikadir)
-- [hacker8853](https://github.com/hacker8853)
-- [zendy199x](https://github.com/zendy199x)
 
 #### 📫 come with me
 
