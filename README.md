@@ -9,12 +9,12 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 weeks ago)
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (3 weeks ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (3 weeks ago)
+- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (1 month ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (4 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (5 months ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (5 months ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (6 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (6 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (8 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (8 months ago)
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [vmthread](https://github.com/vmthread)
+- [gabrieldim](https://github.com/gabrieldim)
+- [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
+- [SingularisArt](https://github.com/SingularisArt)
 - [selcux](https://github.com/selcux)
-- [ijagjeet](https://github.com/ijagjeet)
-- [gencoglutugrul](https://github.com/gencoglutugrul)
-- [1MahdiR](https://github.com/1MahdiR)
-- [alperbg](https://github.com/alperbg)
 
 #### 📫 come with me
 
