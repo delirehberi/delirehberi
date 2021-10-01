@@ -18,7 +18,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (6 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (8 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (8 months ago)
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (8 months ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,18 +39,18 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 Son yazılarım / just in turkish
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 month ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 month ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (2 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (6 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (6 months ago)
-- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (7 months ago)
+- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
 - [vmthread](https://github.com/vmthread)
-- [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [selcux](https://github.com/selcux)
 - [ijagjeet](https://github.com/ijagjeet)
 - [gencoglutugrul](https://github.com/gencoglutugrul)
+- [1MahdiR](https://github.com/1MahdiR)
 
 #### 📫 come with me
 
