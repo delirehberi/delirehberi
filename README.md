@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (2 weeks ago)
+- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (3 weeks ago)
 - [What i want](https://emre.xyz/what-i-want) (11 months ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
 - [Nix](https://emre.xyz/nix) (1 year ago)
@@ -40,17 +40,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (2 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (3 months ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (7 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (8 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (8 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [erdincgc](https://github.com/erdincgc)
 - [alpidev9](https://github.com/alpidev9)
 - [hsnylmz008](https://github.com/hsnylmz008)
 - [scopes1337](https://github.com/scopes1337)
 - [selcux](https://github.com/selcux)
-- [ijagjeet](https://github.com/ijagjeet)
 
 #### 📫 come with me
 
