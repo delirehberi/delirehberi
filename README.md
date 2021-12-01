@@ -18,7 +18,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (8 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (10 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (10 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (10 months ago)
+- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -46,11 +46,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [ugke](https://github.com/ugke)
 - [vitasha10](https://github.com/vitasha10)
 - [ArmanEbtekari](https://github.com/ArmanEbtekari)
 - [erdincgc](https://github.com/erdincgc)
 - [alpidev9](https://github.com/alpidev9)
-- [hsnylmz008](https://github.com/hsnylmz008)
 
 #### 📫 come with me
 
