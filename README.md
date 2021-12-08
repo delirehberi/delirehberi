@@ -12,13 +12,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (2 months ago)
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (3 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (5 months ago)
-- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (6 months ago)
+- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (7 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (8 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (8 months ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (8 months ago)
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (10 months ago)
-- [hmert/love](https://github.com/hmert/love) - :heart: (10 months ago)
-- [delirehberi/nixos](https://github.com/delirehberi/nixos) - Personal Nixos Configuration, includes home-manager configs. (11 months ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (9 months ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (11 months ago)
+- [hmert/love](https://github.com/hmert/love) - :heart: (11 months ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,23 +34,23 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
 - [Nix](https://emre.xyz/nix) (1 year ago)
-- [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (1 year ago)
+- [Searching with the power of PostgreSQL in Symfony Applications](https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications) (2 years ago)
 
 #### 📜 Son yazılarım / just in turkish
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (3 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (4 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (8 months ago)
-- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (8 months ago)
+- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (9 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (10 months ago)
 
 #### 👯 Check out some of my recent followers
 
 - [ugke](https://github.com/ugke)
 - [vitasha10](https://github.com/vitasha10)
-- [ArmanEbtekari](https://github.com/ArmanEbtekari)
 - [erdincgc](https://github.com/erdincgc)
-- [alpidev9](https://github.com/alpidev9)
+- [devalpi](https://github.com/devalpi)
+- [hsnylmz008](https://github.com/hsnylmz008)
 
 #### 📫 come with me
 
