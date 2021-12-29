@@ -13,7 +13,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (4 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (6 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (7 months ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (8 months ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (9 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (9 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (9 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (11 months ago)
@@ -30,8 +30,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (1 week ago)
-- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (1 month ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (2 weeks ago)
+- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (2 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
 - [Nix](https://emre.xyz/nix) (1 year ago)
@@ -39,18 +39,18 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 Son yazılarım / just in turkish
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (4 months ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (4 months ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (5 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (9 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (9 months ago)
-- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (10 months ago)
+- [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [mfatihdurmus](https://github.com/mfatihdurmus)
+- [atifceylan](https://github.com/atifceylan)
+- [muzafferkarakan](https://github.com/muzafferkarakan)
 - [kadiromeo](https://github.com/kadiromeo)
 - [ugke](https://github.com/ugke)
-- [vitasha10](https://github.com/vitasha10)
-- [erdincgc](https://github.com/erdincgc)
-- [devalpi](https://github.com/devalpi)
 
 #### 📫 come with me
 
