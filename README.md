@@ -15,10 +15,10 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (7 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (9 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (9 months ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (9 months ago)
+- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (10 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (11 months ago)
 - [hmert/love](https://github.com/hmert/love) - :heart: (11 months ago)
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (11 months ago)
+- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (1 year ago)
 
 #### 🌱 My latest projects
 
