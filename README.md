@@ -17,8 +17,6 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (9 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (10 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 year ago)
-- [hmert/love](https://github.com/hmert/love) - :heart: (1 year ago)
-- [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +28,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (3 weeks ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (1 month ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (2 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
@@ -40,17 +38,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (4 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (5 months ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (9 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (10 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (10 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [Pedromdsn](https://github.com/Pedromdsn)
 - [mfatihdurmus](https://github.com/mfatihdurmus)
 - [atifceylan](https://github.com/atifceylan)
 - [muzafferkarakan](https://github.com/muzafferkarakan)
 - [kadiromeo](https://github.com/kadiromeo)
+- [ugke](https://github.com/ugke)
 
 #### 📫 come with me
 
