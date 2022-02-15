@@ -14,7 +14,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (7 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (9 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (10 months ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (10 months ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (11 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (11 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (1 month ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (2 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (3 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
@@ -37,17 +37,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (5 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (6 months ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (10 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (11 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (11 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
-- [gamemann](https://github.com/gamemann)
-- [wardloockx](https://github.com/wardloockx)
-- [mfatihdurmus](https://github.com/mfatihdurmus)
-- [atifceylan](https://github.com/atifceylan)
-- [muzafferkarakan](https://github.com/muzafferkarakan)
+- [gazihatas](https://github.com/gazihatas)
+- [Exkaleburix](https://github.com/Exkaleburix)
+- [PiciAkk](https://github.com/PiciAkk)
+- [esin](https://github.com/esin)
+- [ronnydillan](https://github.com/ronnydillan)
 
 #### 📫 come with me
 
