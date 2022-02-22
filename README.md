@@ -9,11 +9,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (4 months ago)
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (5 months ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (7 months ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (5 months ago)
+- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (6 months ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (8 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (9 months ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (10 months ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (11 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (11 months ago)
 - [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (11 months ago)
 
@@ -28,14 +28,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 My recent blog posts / just in english
 
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (2 months ago)
-- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (3 months ago)
+- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (4 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
 - [Nix](https://emre.xyz/nix) (2 years ago)
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (5 months ago)
+- [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (6 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (6 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (11 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (11 months ago)
@@ -43,11 +43,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [PatanC](https://github.com/PatanC)
 - [gazihatas](https://github.com/gazihatas)
 - [Exkaleburix](https://github.com/Exkaleburix)
 - [PiciAkk](https://github.com/PiciAkk)
 - [esin](https://github.com/esin)
-- [ronnydillan](https://github.com/ronnydillan)
 
 #### 📫 come with me
 
