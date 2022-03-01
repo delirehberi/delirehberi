@@ -36,18 +36,18 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 #### 📜 Son yazılarım / just in turkish
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (6 months ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (6 months ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (7 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (11 months ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (11 months ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
+- [smtlbyrk](https://github.com/smtlbyrk)
 - [PatanC](https://github.com/PatanC)
 - [gazihatas](https://github.com/gazihatas)
 - [Exkaleburix](https://github.com/Exkaleburix)
 - [PiciAkk](https://github.com/PiciAkk)
-- [esin](https://github.com/esin)
 
 #### 📫 come with me
 
