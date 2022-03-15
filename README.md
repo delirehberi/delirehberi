@@ -15,7 +15,6 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (10 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (11 months ago)
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (11 months ago)
-- [haskellturkiye/lyah-tr](https://github.com/haskellturkiye/lyah-tr) - Learn You A Haskell dökümanı türkçe çevirisi (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +26,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (2 months ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (3 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (4 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (1 year ago)
@@ -37,17 +36,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (6 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (7 months ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (11 months ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 year ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
+- [besimgurpinar](https://github.com/besimgurpinar)
 - [BEPb](https://github.com/BEPb)
 - [smtlbyrk](https://github.com/smtlbyrk)
 - [PatanC](https://github.com/PatanC)
 - [gazihatas](https://github.com/gazihatas)
-- [Exkaleburix](https://github.com/Exkaleburix)
 
 #### 📫 come with me
 
