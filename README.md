@@ -9,12 +9,12 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (5 months ago)
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (6 months ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (8 months ago)
+- [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (6 months ago)
+- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (7 months ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (9 months ago)
 - [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (10 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (11 months ago)
-- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (11 months ago)
+- [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (6 months ago)
+- [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (7 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (7 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 year ago)
@@ -42,11 +42,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [jasineri](https://github.com/jasineri)
 - [besimgurpinar](https://github.com/besimgurpinar)
 - [BEPb](https://github.com/BEPb)
 - [smtlbyrk](https://github.com/smtlbyrk)
 - [PatanC](https://github.com/PatanC)
-- [gazihatas](https://github.com/gazihatas)
 
 #### 📫 come with me
 
