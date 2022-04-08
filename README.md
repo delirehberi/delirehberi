@@ -9,12 +9,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 days ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (6 months ago)
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (7 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (9 months ago)
-- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (10 months ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 year ago)
+- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +41,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
-- [jasineri](https://github.com/jasineri)
+- [ugurerkan](https://github.com/ugurerkan)
 - [besimgurpinar](https://github.com/besimgurpinar)
 - [smtlbyrk](https://github.com/smtlbyrk)
 - [PatanC](https://github.com/PatanC)
