@@ -9,12 +9,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (1 week ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
+- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (4 days ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 days ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (2 weeks ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (7 months ago)
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (8 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (10 months ago)
-- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (11 months ago)
+- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -42,11 +43,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [muhammetsafak](https://github.com/muhammetsafak)
 - [rgucluer](https://github.com/rgucluer)
 - [ugurerkan](https://github.com/ugurerkan)
 - [besimgurpinar](https://github.com/besimgurpinar)
 - [smtlbyrk](https://github.com/smtlbyrk)
-- [PatanC](https://github.com/PatanC)
 
 #### 📫 come with me
 
