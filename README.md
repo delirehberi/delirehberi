@@ -9,13 +9,12 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (4 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 days ago)
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (2 weeks ago)
+- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (3 weeks ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (7 months ago)
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (8 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (10 months ago)
-- [haskellturkiye/hagar](https://github.com/haskellturkiye/hagar) - Agar.io clone with Haskell (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +26,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (4 months ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (5 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (6 months ago)
 - [What i want](https://emre.xyz/what-i-want) (1 year ago)
 - [I Quit!](https://emre.xyz/i-quit) (2 years ago)
@@ -43,11 +42,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [adilmoumni](https://github.com/adilmoumni)
 - [muhammetsafak](https://github.com/muhammetsafak)
 - [rgucluer](https://github.com/rgucluer)
 - [ugurerkan](https://github.com/ugurerkan)
 - [besimgurpinar](https://github.com/besimgurpinar)
-- [smtlbyrk](https://github.com/smtlbyrk)
 
 #### 📫 come with me
 
