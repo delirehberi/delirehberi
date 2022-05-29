@@ -9,11 +9,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 days ago)
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (4 days ago)
-- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (5 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 weeks ago)
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (4 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (5 days ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 week ago)
+- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 weeks ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (1 month ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (8 months ago)
 - [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (9 months ago)
 
@@ -29,14 +29,14 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (5 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (7 months ago)
-- [What i want](https://emre.xyz/what-i-want) (1 year ago)
+- [What i want](https://emre.xyz/what-i-want) (2 years ago)
 - [I Quit!](https://emre.xyz/i-quit) (2 years ago)
 - [Nix](https://emre.xyz/nix) (2 years ago)
 
 #### 📜 Son yazılarım / just in turkish
 
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (9 months ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (9 months ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (10 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 year ago)
 - [Bu nedenler, nedenler?](https://emre.xyz/bu-nedenler-nedenler) (1 year ago)
