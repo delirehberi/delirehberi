@@ -9,8 +9,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (1 week ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (4 weeks ago)
+- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (2 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (1 month ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
@@ -36,19 +36,19 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (3 days ago)
+- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (1 week ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (10 months ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (10 months ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (11 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
+- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
+- [christiancalara](https://github.com/christiancalara)
 - [gmonarque](https://github.com/gmonarque)
 - [dorukeray](https://github.com/dorukeray)
 - [halildemr](https://github.com/halildemr)
-- [seymanurkarakus](https://github.com/seymanurkarakus)
-- [ozgurvurgun](https://github.com/ozgurvurgun)
 
 #### 📫 come with me
 
