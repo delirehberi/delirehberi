@@ -9,6 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (1 day ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (2 weeks ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
@@ -20,11 +21,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 🌱 My latest projects
 
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) - 
 - [delirehberi/blog.hs](https://github.com/delirehberi/blog.hs) - emre.xyz blog codebase 
 - [delirehberi/bahriye](https://github.com/delirehberi/bahriye) - doorbell notifier
 - [delirehberi/arduino-projects](https://github.com/delirehberi/arduino-projects) - hobby projects
-- [delirehberi/nix-haskell-cabal](https://github.com/delirehberi/nix-haskell-cabal) - this is a template repo for myself.
 
 #### 📜 My recent blog posts / just in english
 
