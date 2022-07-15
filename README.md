@@ -9,8 +9,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (1 week ago)
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (3 weeks ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 weeks ago)
+- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (1 month ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (1 month ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (1 month ago)
@@ -29,7 +29,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (6 months ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (7 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (8 months ago)
 - [What i want](https://emre.xyz/what-i-want) (2 years ago)
 - [I Quit!](https://emre.xyz/i-quit) (2 years ago)
@@ -37,7 +37,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 Son yazılarım / just in turkish
 
-- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (2 weeks ago)
+- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (3 weeks ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (10 months ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (11 months ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
@@ -45,11 +45,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [KP0124831432](https://github.com/KP0124831432)
+- [JCSIVO](https://github.com/JCSIVO)
 - [ozanyurtsever](https://github.com/ozanyurtsever)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [christiancalara](https://github.com/christiancalara)
-- [gmonarque](https://github.com/gmonarque)
-- [dorukeray](https://github.com/dorukeray)
 
 #### 📫 come with me
 
