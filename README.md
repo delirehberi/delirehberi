@@ -9,9 +9,9 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 weeks ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (4 weeks ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (1 month ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (2 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
@@ -39,17 +39,17 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (1 month ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (11 months ago)
-- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (11 months ago)
+- [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
+- [nullfeel](https://github.com/nullfeel)
+- [mustafagenc](https://github.com/mustafagenc)
 - [ElyarSadig](https://github.com/ElyarSadig)
 - [KP0124831432](https://github.com/KP0124831432)
 - [JCSIVO](https://github.com/JCSIVO)
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
-- [christiancalara](https://github.com/christiancalara)
 
 #### 📫 come with me
 
