@@ -9,7 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (4 weeks ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (1 month ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (1 month ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (2 months ago)
