@@ -9,16 +9,15 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (5 days ago)
-- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (5 days ago)
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (1 month ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 week ago)
+- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (1 week ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 months ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (2 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (3 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
 - [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (4 months ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (11 months ago)
-- [workouse/iyzico-sylius](https://github.com/workouse/iyzico-sylius) - Iyzico payment plugin for Sylius ecommerce framework (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +29,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (5 days ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 day ago)
+- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (1 week ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (8 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (10 months ago)
 - [What i want](https://emre.xyz/what-i-want) (2 years ago)
-- [I Quit!](https://emre.xyz/i-quit) (2 years ago)
 
 #### 📜 Son yazılarım / just in turkish
 
