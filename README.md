@@ -9,8 +9,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 weeks ago)
-- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (2 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 weeks ago)
+- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (3 weeks ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 months ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (2 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 months ago)
@@ -29,9 +29,9 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (4 days ago)
-- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (2 weeks ago)
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (8 months ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 week ago)
+- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (3 weeks ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (9 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (10 months ago)
 - [What i want](https://emre.xyz/what-i-want) (2 years ago)
 
@@ -45,11 +45,11 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👯 Check out some of my recent followers
 
+- [giantbrain0216](https://github.com/giantbrain0216)
 - [efe639](https://github.com/efe639)
 - [mustafagenc](https://github.com/mustafagenc)
 - [ElyarSadig](https://github.com/ElyarSadig)
 - [KP0124831432](https://github.com/KP0124831432)
-- [JCSIVO](https://github.com/JCSIVO)
 
 #### 📫 come with me
 
