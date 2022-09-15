@@ -9,12 +9,12 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 weeks ago)
-- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (3 weeks ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (4 weeks ago)
+- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (4 weeks ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 months ago)
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (2 months ago)
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (3 months ago)
-- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (3 months ago)
+- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (3 months ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (4 months ago)
+- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (4 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 months ago)
 - [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (4 months ago)
 - [eresbiotech/careasi](https://github.com/eresbiotech/careasi) - Covid-19 aşı ile ilgili doğru bilginin yayılımı için açılmış bir web uygulamasıdır. (11 months ago)
@@ -29,8 +29,8 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 📜 My recent blog posts / just in english
 
-- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 week ago)
-- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (3 weeks ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (2 weeks ago)
+- [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (4 weeks ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (9 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (10 months ago)
 - [What i want](https://emre.xyz/what-i-want) (2 years ago)
@@ -40,7 +40,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (2 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
-- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (1 year ago)
+- [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (2 years ago)
 - [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (2 years ago)
 
 #### 👯 Check out some of my recent followers
