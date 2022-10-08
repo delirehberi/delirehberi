@@ -9,7 +9,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 days ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (1 month ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 months ago)
@@ -30,7 +30,7 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 month ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (1 month ago)
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (9 months ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (10 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (11 months ago)
 - [What i want](https://emre.xyz/what-i-want) (2 years ago)
 
