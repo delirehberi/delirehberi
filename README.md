@@ -9,13 +9,13 @@ I'm Emre, a web developer, especially experienced on PHP and Symfony. Working at
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 weeks ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (1 month ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (1 month ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 months ago)
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (3 months ago)
-- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (4 months ago)
-- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (4 months ago)
+- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (4 months ago)
+- [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (5 months ago)
+- [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (5 months ago)
 - [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (5 months ago)
 
 #### 🌱 My latest projects
