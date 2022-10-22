@@ -16,7 +16,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (4 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (5 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (5 months ago)
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (5 months ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
-- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (1 day ago)
+- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (6 days ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 month ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (2 months ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (10 months ago)
-- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (11 months ago)
+- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (1 year ago)
 
 #### 📜 Son yazılarım / in turkish
 
