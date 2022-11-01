@@ -9,7 +9,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (6 days ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (1 week ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (2 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (2 months ago)
@@ -29,7 +29,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
-- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (1 week ago)
+- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (2 weeks ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (2 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (2 months ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (10 months ago)
@@ -45,7 +45,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
-- [RichForest0506](https://github.com/RichForest0506)
+- [richforest0506](https://github.com/richforest0506)
 - [yinkar](https://github.com/yinkar)
 - [cryptotyler](https://github.com/cryptotyler)
 - [giantbrain0216](https://github.com/giantbrain0216)
