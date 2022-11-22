@@ -9,7 +9,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (3 weeks ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (1 month ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (3 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 months ago)
@@ -17,7 +17,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (5 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (6 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (6 months ago)
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (6 months ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,19 +37,19 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (4 months ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (3 days ago)
+- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (5 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (2 years ago)
-- [Otuzu devirenler](https://emre.xyz/otuzu-devirenler) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
 - [ahmed-omani](https://github.com/ahmed-omani)
 - [yinkar](https://github.com/yinkar)
-- [cryptotyler](https://github.com/cryptotyler)
 - [giantbrain0216](https://github.com/giantbrain0216)
 - [efe639](https://github.com/efe639)
+- [ElyarSadig](https://github.com/ElyarSadig)
 
 #### 📫 stalk me
 
