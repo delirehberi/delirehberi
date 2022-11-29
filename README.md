@@ -10,10 +10,10 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 #### 👷 Check out what I'm currently working on
 
 - [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (1 month ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (3 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (3 months ago)
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (4 months ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (5 months ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (5 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (6 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (6 months ago)
@@ -30,14 +30,14 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 #### 📜 My recent blog posts / in english
 
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (1 month ago)
-- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (2 months ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (3 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (3 months ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (11 months ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (1 year ago)
 
 #### 📜 Son yazılarım / in turkish
 
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (3 days ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (1 week ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (5 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
@@ -45,11 +45,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [atellmer](https://github.com/atellmer)
+- [cryptotyler](https://github.com/cryptotyler)
 - [ahmed-omani](https://github.com/ahmed-omani)
 - [yinkar](https://github.com/yinkar)
 - [giantbrain0216](https://github.com/giantbrain0216)
-- [efe639](https://github.com/efe639)
-- [ElyarSadig](https://github.com/ElyarSadig)
 
 #### 📫 stalk me
 
