@@ -45,11 +45,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [snkoranoz](https://github.com/snkoranoz)
 - [atellmer](https://github.com/atellmer)
 - [cryptotyler](https://github.com/cryptotyler)
 - [ahmed-omani](https://github.com/ahmed-omani)
 - [yinkar](https://github.com/yinkar)
-- [giantbrain0216](https://github.com/giantbrain0216)
 
 #### 📫 stalk me
 
