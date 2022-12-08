@@ -32,12 +32,12 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (1 month ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (3 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (3 months ago)
-- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (11 months ago)
+- [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (1 year ago)
 - [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (1 year ago)
 
 #### 📜 Son yazılarım / in turkish
 
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (1 week ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (2 weeks ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (5 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
