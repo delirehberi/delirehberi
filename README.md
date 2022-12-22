@@ -9,7 +9,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (1 month ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (2 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (4 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (4 months ago)
@@ -17,7 +17,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (6 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (7 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (7 months ago)
-- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (7 months ago)
+- [Webendorg/site-2022](https://github.com/Webendorg/site-2022) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,19 +37,19 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (3 weeks ago)
-- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (5 months ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (1 month ago)
+- [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (6 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
 - [Kensington Expert Mouse - Trackball Mouse](https://emre.xyz/kensington-expert-mouse-trackball-mouse) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [BusraFatma](https://github.com/BusraFatma)
+- [AhmetAltintas](https://github.com/AhmetAltintas)
+- [tuxcanfly](https://github.com/tuxcanfly)
+- [AbdeenM](https://github.com/AbdeenM)
 - [TDemirdizen](https://github.com/TDemirdizen)
-- [snkoranoz](https://github.com/snkoranoz)
-- [atellmer](https://github.com/atellmer)
-- [cryptotyler](https://github.com/cryptotyler)
-- [ahmed-omani](https://github.com/ahmed-omani)
 
 #### 📫 stalk me
 
