@@ -47,9 +47,9 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 - [giko](https://github.com/giko)
 - [BusraFatma](https://github.com/BusraFatma)
-- [AhmetAltintas](https://github.com/AhmetAltintas)
 - [tuxcanfly](https://github.com/tuxcanfly)
 - [TDemirdizen](https://github.com/TDemirdizen)
+- [snkoranoz](https://github.com/snkoranoz)
 
 #### 📫 stalk me
 
