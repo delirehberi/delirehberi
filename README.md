@@ -9,9 +9,9 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (1 day ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 days ago)
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (2 months ago)
+- [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (1 week ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 week ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (3 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (5 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (5 months ago)
@@ -38,7 +38,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (1 month ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (2 months ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (7 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (1 year ago)
@@ -46,11 +46,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [huwqchn](https://github.com/huwqchn)
 - [skymoonsun](https://github.com/skymoonsun)
 - [giko](https://github.com/giko)
 - [BusraFatma](https://github.com/BusraFatma)
 - [tuxcanfly](https://github.com/tuxcanfly)
-- [TDemirdizen](https://github.com/TDemirdizen)
 
 #### 📫 stalk me
 
