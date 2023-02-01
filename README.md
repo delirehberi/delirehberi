@@ -38,7 +38,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Filmin sonu](https://emre.xyz/filmin-sonu) (1 day ago)
+- [Filmin sonu](https://emre.xyz/filmin-sonu) (4 days ago)
 - [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (2 months ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (7 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (1 year ago)
