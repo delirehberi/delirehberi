@@ -11,7 +11,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 - [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (1 month ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 month ago)
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (3 months ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (4 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (6 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (6 months ago)
@@ -38,19 +38,19 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Filmin sonu](https://emre.xyz/filmin-sonu) (2 weeks ago)
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (2 months ago)
+- [Filmin sonu](https://emre.xyz/filmin-sonu) (3 weeks ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (3 months ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (8 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (2 years ago)
 - [Aç kapa artema!](https://emre.xyz/ac-kapa-artema) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [DGS1337](https://github.com/DGS1337)
 - [illusmirator](https://github.com/illusmirator)
 - [huwqchn](https://github.com/huwqchn)
 - [skymoonsun](https://github.com/skymoonsun)
 - [giko](https://github.com/giko)
-- [BusraFatma](https://github.com/BusraFatma)
 
 #### 📫 stalk me
 
