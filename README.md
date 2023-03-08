@@ -46,11 +46,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
-- [DGS1337](https://github.com/DGS1337)
 - [illusmirator](https://github.com/illusmirator)
 - [huwqchn](https://github.com/huwqchn)
 - [skymoonsun](https://github.com/skymoonsun)
 - [giko](https://github.com/giko)
+- [BusraFatma](https://github.com/BusraFatma)
 
 #### 📫 stalk me
 
