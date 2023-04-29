@@ -9,13 +9,13 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 weeks ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 weeks ago)
 - [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (3 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 months ago)
 - [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (6 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (6 months ago)
-- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (8 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (7 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (8 months ago)
+- [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (8 months ago)
 - [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (10 months ago)
 - [delirehberi/kendi-blogunu-kendin-kodla](https://github.com/delirehberi/kendi-blogunu-kendin-kodla) - https://emre.xyz/kendi-blogunu-kendin-kodla (11 months ago)
 - [workouse/availability-notifier-sylius](https://github.com/workouse/availability-notifier-sylius) - This plugin provides &#34;send notification when product is available&#34; feature for products out of stock. (11 months ago)
@@ -30,15 +30,15 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
+- [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (4 days ago)
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (6 months ago)
-- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (7 months ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (8 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (8 months ago)
 - [Using Postgresql in non-daemon way](https://emre.xyz/using-postgresql-in-non-daemon-way) (1 year ago)
-- [Do everyone needs Slack (or other ims)](https://emre.xyz/do-everyone-needs-slack-or-other-ims) (2 years ago)
 
 #### 📜 Son yazılarım / in turkish
 
-- [Filmin sonu](https://emre.xyz/filmin-sonu) (2 months ago)
+- [Filmin sonu](https://emre.xyz/filmin-sonu) (3 months ago)
 - [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (5 months ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (10 months ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (2 years ago)
@@ -46,11 +46,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [blissini](https://github.com/blissini)
 - [huwqchn](https://github.com/huwqchn)
 - [skymoonsun](https://github.com/skymoonsun)
 - [giko](https://github.com/giko)
 - [BusraFatma](https://github.com/BusraFatma)
-- [tuxcanfly](https://github.com/tuxcanfly)
 
 #### 📫 stalk me
 
