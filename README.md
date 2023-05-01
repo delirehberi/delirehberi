@@ -30,7 +30,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
-- [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (4 days ago)
+- [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (6 days ago)
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (6 months ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (8 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (8 months ago)
