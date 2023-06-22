@@ -9,15 +9,14 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (3 weeks ago)
+- [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (4 weeks ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (2 months ago)
 - [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (5 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (5 months ago)
-- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (7 months ago)
+- [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (8 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (8 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (10 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (10 months ago)
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +28,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
-- [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (1 week ago)
+- [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (2 weeks ago)
 - [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (1 month ago)
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (8 months ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (9 months ago)
@@ -37,19 +36,19 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Aydın Yazılımcı Ağı Etkinlikleri - 2](https://emre.xyz/aydin-yazilimci-agi-etkinlikleri) (6 days ago)
+- [Aydın Yazılımcı Ağı Etkinlikleri - 2](https://emre.xyz/aydin-yazilimci-agi-etkinlikleri) (1 week ago)
 - [Filmin sonu](https://emre.xyz/filmin-sonu) (4 months ago)
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (6 months ago)
+- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (7 months ago)
 - [Erkek Şiddeti](https://emre.xyz/erkek-siddeti) (1 year ago)
 - [Erkekler için feminizme giriş](https://emre.xyz/erkekler-icin-feminizme-giris) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
-- [joselong-dev](https://github.com/joselong-dev)
+- [aliemir](https://github.com/aliemir)
+- [bahargumuser](https://github.com/bahargumuser)
 - [Honest0](https://github.com/Honest0)
 - [lutfuahmet](https://github.com/lutfuahmet)
 - [onderakbulut](https://github.com/onderakbulut)
-- [ramazanolcay](https://github.com/ramazanolcay)
 
 #### 📫 stalk me
 
