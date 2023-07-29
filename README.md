@@ -9,12 +9,13 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (1 month ago)
+- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (6 days ago)
+- [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (2 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 months ago)
 - [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (6 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (6 months ago)
 - [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (9 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (9 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (10 months ago)
 - [7Cups/migratos](https://github.com/7Cups/migratos) - God of database migration libraries (11 months ago)
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo (11 months ago)
 
@@ -29,26 +30,26 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 #### 📜 My recent blog posts / in english
 
 - [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (1 month ago)
-- [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (2 months ago)
+- [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (3 months ago)
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (9 months ago)
-- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (10 months ago)
+- [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (11 months ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (11 months ago)
 
 #### 📜 Son yazılarım / in turkish
 
-- [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (3 days ago)
-- [Aydın Yazılımcı Etkinlikleri - 3](https://emre.xyz/aydin-yazilimci-etkinlikleri-3) (4 weeks ago)
+- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (1 day ago)
+- [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (1 week ago)
+- [Aydın Yazılımcı Etkinlikleri - 3](https://emre.xyz/aydin-yazilimci-etkinlikleri-3) (1 month ago)
 - [Aydın Yazılımcı Ağı Etkinlikleri - 2](https://emre.xyz/aydin-yazilimci-agi-etkinlikleri) (1 month ago)
-- [Filmin sonu](https://emre.xyz/filmin-sonu) (5 months ago)
-- [Haftalık Yazılımcı Buluşmaları](https://emre.xyz/haftalik-yazilimci-bulusmalari) (8 months ago)
+- [Filmin sonu](https://emre.xyz/filmin-sonu) (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [CharlesDerek](https://github.com/CharlesDerek)
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
 - [bahargumuser](https://github.com/bahargumuser)
 - [Honest0](https://github.com/Honest0)
+- [lutfuahmet](https://github.com/lutfuahmet)
 
 #### 📫 stalk me
 
