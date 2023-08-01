@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
-Its Emre, a web developer, especially experienced on PHP, Symfony and a little bit Haskell. Do not forget to check my company web site https://workouse.com 
+Its Emre, a web developer, especially experienced on PHP, Symfony and a little bit Haskell. Do not forget to check my company https://workouse.com 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
