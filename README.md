@@ -9,10 +9,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (6 days ago)
+- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (1 day ago)
+- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 week ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (2 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (3 months ago)
-- [aydin-yazilimci-agi/aya.emre.xyz](https://github.com/aydin-yazilimci-agi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (6 months ago)
+- [aydinyazilimciagi/aya.emre.xyz](https://github.com/aydinyazilimciagi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (6 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (6 months ago)
 - [eresbiotech/.github](https://github.com/eresbiotech/.github) -  (9 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (10 months ago)
@@ -37,7 +38,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (1 day ago)
+- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (4 days ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (1 week ago)
 - [Aydın Yazılımcı Etkinlikleri - 3](https://emre.xyz/aydin-yazilimci-etkinlikleri-3) (1 month ago)
 - [Aydın Yazılımcı Ağı Etkinlikleri - 2](https://emre.xyz/aydin-yazilimci-agi-etkinlikleri) (1 month ago)
@@ -45,11 +46,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [alicangunduz](https://github.com/alicangunduz)
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
 - [bahargumuser](https://github.com/bahargumuser)
 - [Honest0](https://github.com/Honest0)
-- [lutfuahmet](https://github.com/lutfuahmet)
 
 #### 📫 stalk me
 
