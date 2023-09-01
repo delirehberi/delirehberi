@@ -9,9 +9,10 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (2 weeks ago)
-- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (3 weeks ago)
-- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (4 weeks ago)
+- [bilimma/.github](https://github.com/bilimma/.github) -  (1 day ago)
+- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (3 weeks ago)
+- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (4 weeks ago)
+- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (1 month ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (3 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (4 months ago)
 - [aydinyazilimciagi/aya.emre.xyz](https://github.com/aydinyazilimciagi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (7 months ago)
@@ -38,8 +39,8 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 #### 📜 Son yazılarım / in turkish
 
 - [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (3 weeks ago)
-- [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (3 weeks ago)
-- [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (4 weeks ago)
+- [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (4 weeks ago)
+- [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (1 month ago)
 - [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (1 month ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (1 month ago)
 
