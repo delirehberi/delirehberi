@@ -9,24 +9,24 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (today)
-- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (2 weeks ago)
-- [bilimma/.github](https://github.com/bilimma/.github) -  (3 weeks ago)
+- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (2 days ago)
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (3 days ago)
+- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (3 weeks ago)
+- [bilimma/.github](https://github.com/bilimma/.github) -  (4 weeks ago)
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (1 month ago)
 - [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 month ago)
-- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (1 month ago)
+- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (2 months ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (4 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (5 months ago)
 - [aydinyazilimciagi/aya.emre.xyz](https://github.com/aydinyazilimciagi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (8 months ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (8 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) - 
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) - 
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi. 
 - [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime
-- [delirehberi/chat-hs](https://github.com/delirehberi/chat-hs) - 
 
 #### 📜 My recent blog posts / in english
 
@@ -41,7 +41,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (1 month ago)
 - [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (1 month ago)
 - [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (1 month ago)
-- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (1 month ago)
+- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (2 months ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (2 months ago)
 
 #### 👯 Check out some of my recent followers
