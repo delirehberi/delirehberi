@@ -9,10 +9,10 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (2 days ago)
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (3 days ago)
+- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (4 days ago)
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (5 days ago)
 - [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (3 weeks ago)
-- [bilimma/.github](https://github.com/bilimma/.github) -  (4 weeks ago)
+- [bilimma/.github](https://github.com/bilimma/.github) -  (1 month ago)
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (1 month ago)
 - [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 month ago)
 - [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (2 months ago)
@@ -40,7 +40,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 - [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (1 month ago)
 - [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (1 month ago)
-- [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (1 month ago)
+- [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (2 months ago)
 - [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (2 months ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (2 months ago)
 
