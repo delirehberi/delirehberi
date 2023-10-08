@@ -9,15 +9,15 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (4 days ago)
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (5 days ago)
-- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (3 weeks ago)
+- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (1 week ago)
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (1 week ago)
+- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (1 month ago)
 - [bilimma/.github](https://github.com/bilimma/.github) -  (1 month ago)
-- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (1 month ago)
-- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 month ago)
+- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (2 months ago)
+- [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (2 months ago)
 - [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (2 months ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (4 months ago)
-- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (5 months ago)
+- [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (6 months ago)
 - [aydinyazilimciagi/aya.emre.xyz](https://github.com/aydinyazilimciagi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (8 months ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 My recent blog posts / in english
 
-- [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (3 months ago)
+- [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (4 months ago)
 - [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (5 months ago)
 - [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (11 months ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 year ago)
@@ -38,19 +38,19 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 📜 Son yazılarım / in turkish
 
-- [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (1 month ago)
-- [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (1 month ago)
+- [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (2 months ago)
+- [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (2 months ago)
 - [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (2 months ago)
 - [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (2 months ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [harrialeksi](https://github.com/harrialeksi)
 - [alicangunduz](https://github.com/alicangunduz)
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
 - [bahargumuser](https://github.com/bahargumuser)
-- [lutfuahmet](https://github.com/lutfuahmet)
 
 #### 📫 stalk me
 
