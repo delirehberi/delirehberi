@@ -9,8 +9,9 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (1 week ago)
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (1 week ago)
+- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (2 days ago)
+- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (2 days ago)
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (2 weeks ago)
 - [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (1 month ago)
 - [bilimma/.github](https://github.com/bilimma/.github) -  (1 month ago)
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (2 months ago)
@@ -18,7 +19,6 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (2 months ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (4 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (6 months ago)
-- [aydinyazilimciagi/aya.emre.xyz](https://github.com/aydinyazilimciagi/aya.emre.xyz) - Aydın Yazılımcı Ağı web sayfası (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 - [A Journey with Beeper: The All-in-One Messaging App](https://emre.xyz/a-journey-with-beeper-the-all-in-one-messaging-app) (4 months ago)
 - [Slaying Code with Linux: The Tools I Use to Dominate in Development](https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development) (5 months ago)
-- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (11 months ago)
+- [Add essential dotenv support to your WordPress without a plugin](https://emre.xyz/add-essential-dotenv-support-to-your-wordpress-without-a-plugin) (1 year ago)
 - [Apple Shortcuts](https://emre.xyz/apple-shortcuts) (1 year ago)
 - [How to add a database structure migration feature to your legacy PHP projects?](https://emre.xyz/how-to-add-a-database-structure-migration-feature-to-your-legacy-php-projects) (1 year ago)
 
@@ -46,11 +46,11 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👯 Check out some of my recent followers
 
+- [ramazansancar](https://github.com/ramazansancar)
 - [harrialeksi](https://github.com/harrialeksi)
 - [alicangunduz](https://github.com/alicangunduz)
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
-- [bahargumuser](https://github.com/bahargumuser)
 
 #### 📫 stalk me
 
