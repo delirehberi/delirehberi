@@ -9,14 +9,14 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 
 #### 👷 Check out what I'm currently working on
 
-- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (1 day ago)
-- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (1 week ago)
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (3 weeks ago)
+- [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (4 days ago)
+- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (2 weeks ago)
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (1 month ago)
 - [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (1 month ago)
 - [bilimma/.github](https://github.com/bilimma/.github) -  (1 month ago)
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (2 months ago)
 - [acikkaynak/calisma-mekanlari](https://github.com/acikkaynak/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (2 months ago)
-- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (2 months ago)
+- [aydinyazilimciagi/.github](https://github.com/aydinyazilimciagi/.github) -  (3 months ago)
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi.  (5 months ago)
 - [delirehberi/status](https://github.com/delirehberi/status) - 📈 Uptime monitor and status page for Upptime, powered by @upptime (6 months ago)
 
@@ -41,7 +41,7 @@ Its Emre, a web developer, especially experienced on PHP, Symfony and a little b
 - [Neden teknoloji takip etmek yerine yaratmıyoruz?](https://emre.xyz/neden-teknoloji-takip-etmek-yerine-yaratmiyoruz) (2 months ago)
 - [TailwindCSS gerekli birşey mi?](https://emre.xyz/tailwindcss-gerekli-birsey-mi) (2 months ago)
 - [Sessiz İstifa Nedir?](https://emre.xyz/sessiz-istifa-nedir) (2 months ago)
-- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (2 months ago)
+- [Bluesky Nedir? ATProto nedir? ActivityPub varken nereden çıktı?](https://emre.xyz/bluesky-nedir) (3 months ago)
 - [BlueSky / ATProto üzerindeki özelleştirilmiş akışlar](https://emre.xyz/bluesky-atproto-uzerindeki-ozellestirilmis-akislar) (3 months ago)
 
 #### 👯 Check out some of my recent followers
