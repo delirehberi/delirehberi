@@ -19,7 +19,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 {{range rss "https://emre.xyz/index.xml" 5}}
-- [{{.title}}]({{.link}}) ({{humanize .pubDate}})
+- [{{.Title}}]({{.Link}}) ({{humanize .PubDate}})
 {{- end}} 
 
 #### 📫 stalk me
