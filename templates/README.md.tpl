@@ -22,11 +22,6 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - [{{.title}}]({{.link}}) ({{humanize .pubDate}})
 {{- end}} 
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
 #### 📫 stalk me
 
 - Blog: https://emre.xyz 
@@ -37,5 +32,12 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - Soundcloud: https://soundcloud.com/delirehberi
 - Nostr: https://satellite.earth/@delirehberi@emre.xyz
 - Bsky: https://bsky.app/profile/emre.xyz
+
+
+#### 👯 Check out some of my recent followers
+{{range followers 10}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
 
 
