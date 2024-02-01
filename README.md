@@ -9,7 +9,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (3 weeks ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (3 weeks ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (1 month ago)
@@ -30,11 +30,11 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [#04](https://emre.xyz/til/04/) (2 weeks ago)
-- [#02](https://emre.xyz/til/02/) (2 weeks ago)
-- [#03](https://emre.xyz/til/03/) (2 weeks ago)
-- [Class](https://emre.xyz/class/) (3 weeks ago)
-- [#01](https://emre.xyz/til/01/) (3 weeks ago) 
+- [Ferhangi Denemeler](https://emre.xyz/posts/ferhangi-denemeler/) (3 days ago)
+- [Otomatize Testler ve Test Çeşitleri](https://emre.xyz/posts/otomatize-testler-ve-test-cesitleri/) (3 days ago)
+- [#04](https://emre.xyz/til/04/) (3 weeks ago)
+- [#02](https://emre.xyz/til/02/) (3 weeks ago)
+- [#03](https://emre.xyz/til/03/) (3 weeks ago) 
 
 #### 📫 stalk me
 
@@ -50,6 +50,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👯 Check out some of my recent followers
 
+- [selda21](https://github.com/selda21)
 - [jariwarlord](https://github.com/jariwarlord)
 - [aslihanguven](https://github.com/aslihanguven)
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
@@ -59,7 +60,6 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - [alicangunduz](https://github.com/alicangunduz)
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
-- [bahargumuser](https://github.com/bahargumuser)
 
 
 
