@@ -9,16 +9,16 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (3 weeks ago)
-- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (3 weeks ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (1 month ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
+- [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (1 month ago)
+- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (1 month ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (2 months ago)
 - [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (3 months ago)
 - [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (3 months ago)
 - [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (4 months ago)
-- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (4 months ago)
+- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (5 months ago)
 - [bilimma/.github](https://github.com/bilimma/.github) -  (5 months ago)
-- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (5 months ago)
+- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [Ferhangi Denemeler](https://emre.xyz/posts/ferhangi-denemeler/) (3 days ago)
-- [Otomatize Testler ve Test Çeşitleri](https://emre.xyz/posts/otomatize-testler-ve-test-cesitleri/) (3 days ago)
-- [#04](https://emre.xyz/til/04/) (3 weeks ago)
-- [#02](https://emre.xyz/til/02/) (3 weeks ago)
-- [#03](https://emre.xyz/til/03/) (3 weeks ago) 
+- [Osman Hamdi Bey](https://emre.xyz/posts/osman-hamdi-bey/) (4 days ago)
+- [Bugüne kadarkiler](https://emre.xyz/posts/bugune-kadarkiler/) (6 days ago)
+- [Ferhangi Denemeler](https://emre.xyz/posts/ferhangi-denemeler/) (1 week ago)
+- [Otomatize Testler ve Test Çeşitleri](https://emre.xyz/posts/otomatize-testler-ve-test-cesitleri/) (1 week ago)
+- [#04](https://emre.xyz/til/04/) (4 weeks ago) 
 
 #### 📫 stalk me
 
@@ -50,6 +50,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👯 Check out some of my recent followers
 
+- [Bi7g3](https://github.com/Bi7g3)
 - [selda21](https://github.com/selda21)
 - [jariwarlord](https://github.com/jariwarlord)
 - [aslihanguven](https://github.com/aslihanguven)
@@ -59,7 +60,6 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - [harrialeksi](https://github.com/harrialeksi)
 - [alicangunduz](https://github.com/alicangunduz)
 - [haktanakdag](https://github.com/haktanakdag)
-- [aliemir](https://github.com/aliemir)
 
 
 
