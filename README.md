@@ -9,8 +9,8 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 week ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (1 month ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (1 month ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (2 months ago)
@@ -30,11 +30,11 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [Evim evdir](https://emre.xyz/posts/evim-evdir/) (2 days ago)
-- [Çünkü bazen insan](https://emre.xyz/posts/cunku-bazen-insan/) (6 days ago)
-- [Osman Hamdi Bey](https://emre.xyz/posts/osman-hamdi-bey/) (1 week ago)
-- [Bugüne kadarkiler](https://emre.xyz/posts/bugune-kadarkiler/) (1 week ago)
-- [Ferhangi Denemeler](https://emre.xyz/posts/ferhangi-denemeler/) (2 weeks ago) 
+- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (5 days ago)
+- [Evim evdir](https://emre.xyz/posts/evim-evdir/) (1 week ago)
+- [Çünkü bazen insan](https://emre.xyz/posts/cunku-bazen-insan/) (1 week ago)
+- [Osman Hamdi Bey](https://emre.xyz/posts/osman-hamdi-bey/) (2 weeks ago)
+- [Bugüne kadarkiler](https://emre.xyz/posts/bugune-kadarkiler/) (2 weeks ago) 
 
 #### 📫 stalk me
 
