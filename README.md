@@ -32,9 +32,9 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 - [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (1 week ago)
 - [Evim evdir](https://emre.xyz/posts/evim-evdir/) (2 weeks ago)
-- [Çünkü bazen insan](https://emre.xyz/posts/cunku-bazen-insan/) (2 weeks ago)
+- [Çünkü bazen insan](https://emre.xyz/posts/cunku-bazen-insan/) (3 weeks ago)
 - [Osman Hamdi Bey](https://emre.xyz/posts/osman-hamdi-bey/) (3 weeks ago)
-- [Bugüne kadarkiler](https://emre.xyz/posts/bugune-kadarkiler/) (3 weeks ago) 
+- [Bugüne kadarkiler](https://emre.xyz/posts/bugune-kadarkiler/) (4 weeks ago) 
 
 #### 📫 stalk me
 
