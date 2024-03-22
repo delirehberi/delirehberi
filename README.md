@@ -9,7 +9,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 month ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (2 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (2 months ago)
@@ -30,8 +30,8 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (1 week ago)
-- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (3 weeks ago)
+- [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (2 weeks ago)
+- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (1 month ago)
 - [Evim evdir](https://emre.xyz/posts/evim-evdir/) (1 month ago)
 - [Çünkü bazen insan](https://emre.xyz/posts/cunku-bazen-insan/) (1 month ago)
 - [Osman Hamdi Bey](https://emre.xyz/posts/osman-hamdi-bey/) (1 month ago) 
@@ -50,6 +50,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👯 Check out some of my recent followers
 
+- [SeherKumsar](https://github.com/SeherKumsar)
 - [Bi7g3](https://github.com/Bi7g3)
 - [selda21](https://github.com/selda21)
 - [jariwarlord](https://github.com/jariwarlord)
@@ -59,7 +60,6 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - [ramazansancar](https://github.com/ramazansancar)
 - [harrialeksi](https://github.com/harrialeksi)
 - [alicangunduz](https://github.com/alicangunduz)
-- [haktanakdag](https://github.com/haktanakdag)
 
 
 
