@@ -9,13 +9,13 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
-- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (1 month ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (2 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (3 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (3 months ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (4 months ago)
 - [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (5 months ago)
-- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (5 months ago)
+- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (6 months ago)
 - [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (6 months ago)
 - [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (7 months ago)
 - [bilimma/.github](https://github.com/bilimma/.github) -  (7 months ago)
@@ -30,11 +30,11 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (2 days ago)
-- [#05](https://emre.xyz/til/05/) (2 weeks ago)
+- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 week ago)
+- [#05](https://emre.xyz/til/05/) (3 weeks ago)
 - [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (1 month ago)
 - [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (1 month ago)
-- [Evim evdir](https://emre.xyz/posts/evim-evdir/) (1 month ago) 
+- [Evim evdir](https://emre.xyz/posts/evim-evdir/) (2 months ago) 
 
 #### 📫 stalk me
 
