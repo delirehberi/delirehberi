@@ -9,7 +9,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (2 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (3 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (3 months ago)
@@ -30,10 +30,10 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 📜 My recent blog posts 
 
-- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 week ago)
-- [#05](https://emre.xyz/til/05/) (3 weeks ago)
+- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (2 weeks ago)
+- [#05](https://emre.xyz/til/05/) (1 month ago)
 - [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (1 month ago)
-- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (1 month ago)
+- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (2 months ago)
 - [Evim evdir](https://emre.xyz/posts/evim-evdir/) (2 months ago) 
 
 #### 📫 stalk me
