@@ -50,6 +50,7 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 
 #### 👯 Check out some of my recent followers
 
+- [54J4N](https://github.com/54J4N)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
 - [SeherKumsar](https://github.com/SeherKumsar)
 - [Bi7g3](https://github.com/Bi7g3)
@@ -59,7 +60,6 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
 - [eyupfidan](https://github.com/eyupfidan)
 - [ramazansancar](https://github.com/ramazansancar)
-- [harrialeksi](https://github.com/harrialeksi)
 
 
 
