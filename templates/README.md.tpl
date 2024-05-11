@@ -3,7 +3,11 @@
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
-Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP and Symfony, and occasionally dabbling in Haskell for some functional flair. I specialize in crafting responsive and engaging websites, committed to delivering high-quality and innovative solutions. Don't forget to explore my professional habitat at [Workouse](https://workouse.com) for a deeper dive into my projects and collaborations. Let's connect and build something amazing together!
+Hey there! I'm Emre, a web developer who's all about PHP, Symfony, NodeJS, ReactJS, Django, Wordpress, Shopify and a sprinkle of Haskell for that extra flair.
+I'm your go-to guy for crafting cool websites that work like a charm on any device. 
+Check out my work at [Workouse](https://workouse.com) to see what I've been up to lately. 
+Oh, and if you've got a freelance gig, hit me up on [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0). 
+Let's team up and create something awesome!
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
@@ -25,13 +29,12 @@ Hello World! 👋 I'm Emre, a passionate Web Developer weaving the web with PHP 
 #### 📫 stalk me
 
 - Blog: https://emre.xyz 
-- Linkedin: https://linkedin.com/in/delirehberi
-- Twitter: https://twitter.com/delirehberi
+- Upwork: https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0
+- Linkedin: https://linkedin.com/in/delirehberi 
 - Youtube: https://www.youtube.com/@delirehberi
 - Podcasts: https://anchor.fm/delirehberi
 - Soundcloud: https://soundcloud.com/delirehberi
-- Nostr: https://satellite.earth/@delirehberi@emre.xyz
-- Bsky: https://bsky.app/profile/emre.xyz
+- Nostr: https://satellite.earth/@delirehberi@emre.xyz 
 
 
 #### 👯 Check out some of my recent followers
