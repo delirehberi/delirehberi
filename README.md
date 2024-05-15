@@ -13,8 +13,9 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (today)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (4 days ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (3 weeks ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (3 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (4 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (4 months ago)
@@ -22,7 +23,6 @@ Let's team up and create something awesome!
 - [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (6 months ago)
 - [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (7 months ago)
 - [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (7 months ago)
-- [aydinyazilimciagi/rsvp](https://github.com/aydinyazilimciagi/rsvp) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (today)
+- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (4 days ago)
 - [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 month ago)
 - [#05](https://emre.xyz/til/05/) (1 month ago)
 - [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (2 months ago)
