@@ -13,32 +13,32 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (4 days ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (today)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (1 day ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (1 day ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (1 week ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (1 month ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (3 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (4 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (4 months ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - A blog with jekyll (5 months ago)
 - [bilimma/bsky-autoshare](https://github.com/bilimma/bsky-autoshare) - Autoshare script for atproto applications (6 months ago)
-- [ne-znam/neznam-atproto-share](https://github.com/ne-znam/neznam-atproto-share) - Automatically share to Authenticated Transfer Protocol networks like BlueSky (7 months ago)
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) - 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - 
 - [delirehberi/shell-find](https://github.com/delirehberi/shell-find) - 
 - [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) - 
 - [delirehberi/mam-15-kk](https://github.com/delirehberi/mam-15-kk) - Mevzular Acik Mikrofon 15. Bolum - Kemal Kilicdaroglu tum yayinin transkribi. 
-- [delirehberi/legacy-app](https://github.com/delirehberi/legacy-app) - legacy app for migratos demo
 
 #### 📜 My recent blog posts 
 
-- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (4 days ago)
+- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (1 week ago)
 - [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 month ago)
-- [#05](https://emre.xyz/til/05/) (1 month ago)
+- [#05](https://emre.xyz/til/05/) (2 months ago)
 - [Feminizm üzerine](https://emre.xyz/posts/feminizm-uzerine/) (2 months ago)
-- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (2 months ago) 
+- [İstanbullululuk](https://emre.xyz/posts/istanbullululuk/) (3 months ago) 
 
 #### 📫 stalk me
 
