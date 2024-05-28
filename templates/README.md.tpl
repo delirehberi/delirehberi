@@ -1,10 +1,10 @@
-<h3>Hola!</h3>
+<h3>Merhaba!</h3>
  
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
 Hey there! I'm Emre, a web developer who's all about PHP, Symfony, NodeJS, ReactJS, Django, Wordpress, Shopify and a sprinkle of Haskell for that extra flair.
-I'm your go-to guy for crafting cool websites that work like a charm on any device. 
+I'm your go-to guy for crafting cool websites and web applications that work like a charm on any device. 
 Check out my work at [Workouse](https://workouse.com) to see what I've been up to lately. 
 Oh, and if you've got a freelance gig, hit me up on [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0). 
 Let's team up and create something awesome!
@@ -38,7 +38,7 @@ Let's team up and create something awesome!
 
 
 #### 👯 Check out some of my recent followers
-{{range followers 10}}
+{{range followers 20}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
