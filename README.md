@@ -13,11 +13,11 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (2 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (5 days ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (1 week ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (1 week ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (2 weeks ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (3 weeks ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (1 month ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (3 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (4 months ago)
@@ -34,11 +34,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#06](https://emre.xyz/til/06/) (2 days ago)
-- [No How, Live Long What! - Experiences with AI Tools on Software Development](https://emre.xyz/posts/no-how-live-long-what-ai-tools-in-software-development/) (5 days ago)
-- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (2 weeks ago)
-- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 month ago)
-- [#05](https://emre.xyz/til/05/) (2 months ago) 
+- [#07](https://emre.xyz/til/07/) (1 day ago)
+- [#06](https://emre.xyz/til/06/) (5 days ago)
+- [No How, Live Long What! - Experiences with AI Tools on Software Development](https://emre.xyz/posts/no-how-live-long-what-ai-tools-in-software-development/) (1 week ago)
+- [What is emoji?](https://emre.xyz/posts/what-is-emoji/) (3 weeks ago)
+- [Ağuuuu - Seikilos üzerine bir oyun](https://emre.xyz/posts/aguuuu/) (1 month ago) 
 
 #### 📫 stalk me
 
