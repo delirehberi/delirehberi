@@ -13,13 +13,13 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 days ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (2 weeks ago)
-- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (3 weeks ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (3 weeks ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (1 month ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (1 month ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (1 month ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (1 month ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (2 months ago)
 - [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (4 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (5 months ago)
 - [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (5 months ago)
@@ -34,11 +34,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#09](https://emre.xyz/til/09/) (4 days ago)
-- [#08](https://emre.xyz/til/08/) (1 week ago)
-- [#07](https://emre.xyz/til/07/) (2 weeks ago)
-- [#06](https://emre.xyz/til/06/) (2 weeks ago)
-- [No How, Live Long What! - Experiences with AI Tools on Software Development](https://emre.xyz/posts/no-how-live-long-what-ai-tools-in-software-development/) (3 weeks ago) 
+- [#09](https://emre.xyz/til/09/) (1 week ago)
+- [#08](https://emre.xyz/til/08/) (2 weeks ago)
+- [#07](https://emre.xyz/til/07/) (3 weeks ago)
+- [#06](https://emre.xyz/til/06/) (3 weeks ago)
+- [No How, Live Long What! - Experiences with AI Tools on Software Development](https://emre.xyz/posts/no-how-live-long-what-ai-tools-in-software-development/) (4 weeks ago) 
 
 #### 📫 stalk me
 
