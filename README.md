@@ -36,7 +36,7 @@ Let's team up and create something awesome!
 
 - [#09](https://emre.xyz/til/09/) (2 weeks ago)
 - [#08](https://emre.xyz/til/08/) (3 weeks ago)
-- [#07](https://emre.xyz/til/07/) (4 weeks ago)
+- [#07](https://emre.xyz/til/07/) (1 month ago)
 - [#06](https://emre.xyz/til/06/) (1 month ago)
 - [No How, Live Long What! - Experiences with AI Tools on Software Development](https://emre.xyz/posts/no-how-live-long-what-ai-tools-in-software-development/) (1 month ago) 
 
@@ -53,6 +53,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
 - [SeherKumsar](https://github.com/SeherKumsar)
 - [Bi7g3](https://github.com/Bi7g3)
@@ -72,7 +73,6 @@ Let's team up and create something awesome!
 - [ramazanolcay](https://github.com/ramazanolcay)
 - [umuterozan](https://github.com/umuterozan)
 - [blissini](https://github.com/blissini)
-- [illusmirator](https://github.com/illusmirator)
 
 
 
