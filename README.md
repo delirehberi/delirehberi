@@ -13,16 +13,16 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (6 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (1 month ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (1 month ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (1 month ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (1 month ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (1 month ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (1 month ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (2 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (2 months ago)
-- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (4 months ago)
-- [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (6 months ago)
+- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (5 months ago)
+- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (6 days ago)
-- [#09](https://emre.xyz/til/09/) (3 weeks ago)
+- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (1 week ago)
+- [#09](https://emre.xyz/til/09/) (1 month ago)
 - [#08](https://emre.xyz/til/08/) (1 month ago)
 - [#07](https://emre.xyz/til/07/) (1 month ago)
 - [#06](https://emre.xyz/til/06/) (1 month ago) 
@@ -53,6 +53,8 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [DavidMarom](https://github.com/DavidMarom)
+- [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
 - [SeherKumsar](https://github.com/SeherKumsar)
@@ -71,8 +73,6 @@ Let's team up and create something awesome!
 - [lutfuahmet](https://github.com/lutfuahmet)
 - [onderakbulut](https://github.com/onderakbulut)
 - [ramazanolcay](https://github.com/ramazanolcay)
-- [umuterozan](https://github.com/umuterozan)
-- [blissini](https://github.com/blissini)
 
 
 
