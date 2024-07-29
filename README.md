@@ -13,9 +13,9 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (1 month ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (2 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (2 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (2 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (2 months ago)
@@ -34,11 +34,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (2 weeks ago)
+- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (4 days ago)
+- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (3 weeks ago)
 - [#09](https://emre.xyz/til/09/) (1 month ago)
 - [#08](https://emre.xyz/til/08/) (1 month ago)
-- [#07](https://emre.xyz/til/07/) (1 month ago)
-- [#06](https://emre.xyz/til/06/) (1 month ago) 
+- [#07](https://emre.xyz/til/07/) (1 month ago) 
 
 #### 📫 stalk me
 
@@ -53,7 +53,6 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
-- [RustChainBuilder](https://github.com/RustChainBuilder)
 - [DavidMarom](https://github.com/DavidMarom)
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
@@ -73,6 +72,7 @@ Let's team up and create something awesome!
 - [bahargumuser](https://github.com/bahargumuser)
 - [lutfuahmet](https://github.com/lutfuahmet)
 - [onderakbulut](https://github.com/onderakbulut)
+- [ramazanolcay](https://github.com/ramazanolcay)
 
 
 
