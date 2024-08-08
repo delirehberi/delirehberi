@@ -13,16 +13,16 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (2 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (2 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (2 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (2 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (2 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (2 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (3 months ago)
-- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (5 months ago)
-- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (6 months ago)
+- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (6 months ago)
+- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,10 +34,10 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (1 week ago)
+- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (2 weeks ago)
 - [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (1 month ago)
 - [#09](https://emre.xyz/til/09/) (1 month ago)
-- [#08](https://emre.xyz/til/08/) (1 month ago)
+- [#08](https://emre.xyz/til/08/) (2 months ago)
 - [#07](https://emre.xyz/til/07/) (2 months ago) 
 
 #### 📫 stalk me
