@@ -13,9 +13,9 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (2 months ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (3 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (3 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (3 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (3 months ago)
@@ -34,10 +34,10 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#12](https://emre.xyz/til/12/) (1 day ago)
-- [#11](https://emre.xyz/til/11/) (2 days ago)
-- [#10](https://emre.xyz/til/10/) (2 days ago)
-- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (4 weeks ago)
+- [#12](https://emre.xyz/til/12/) (1 week ago)
+- [#11](https://emre.xyz/til/11/) (1 week ago)
+- [#10](https://emre.xyz/til/10/) (1 week ago)
+- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (1 month ago)
 - [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (1 month ago) 
 
 #### 📫 stalk me
@@ -53,6 +53,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [syswe](https://github.com/syswe)
 - [chipnertkj](https://github.com/chipnertkj)
 - [DavidMarom](https://github.com/DavidMarom)
@@ -72,7 +73,6 @@ Let's team up and create something awesome!
 - [haktanakdag](https://github.com/haktanakdag)
 - [aliemir](https://github.com/aliemir)
 - [bahargumuser](https://github.com/bahargumuser)
-- [lutfuahmet](https://github.com/lutfuahmet)
 
 
 
