@@ -38,7 +38,7 @@ Let's team up and create something awesome!
 - [#11](https://emre.xyz/til/11/) (1 week ago)
 - [#10](https://emre.xyz/til/10/) (1 week ago)
 - [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (1 month ago)
-- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (1 month ago) 
+- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (2 months ago) 
 
 #### 📫 stalk me
 
