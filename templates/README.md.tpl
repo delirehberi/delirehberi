@@ -35,10 +35,11 @@ Let's team up and create something awesome!
 - Podcasts: https://anchor.fm/delirehberi
 - Soundcloud: https://soundcloud.com/delirehberi
 - Nostr: https://satellite.earth/@delirehberi@emre.xyz 
+- Lobsters: https://lobste.rs/~delirehberi
 
 
 #### 👯 Check out some of my recent followers
-{{range followers 20}}
+{{range followers 10}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
