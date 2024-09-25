@@ -11,18 +11,20 @@ Let's team up and create something awesome!
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
+<a href="https://stackoverflow.com/users/673223/delirehberi"><img src="https://stackoverflow.com/users/flair/673223.png" width="208" height="58" alt="profile for delirehberi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for delirehberi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 #### 👷 Check out what I'm currently working on
 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (3 months ago)
-- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (3 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (3 months ago)
-- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (3 months ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (3 months ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (4 months ago)
-- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (6 months ago)
-- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (7 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (4 months ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (4 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (4 months ago)
+- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (4 months ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (4 months ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (5 months ago)
+- [yazilimciagi/calisma-mekanlari](https://github.com/yazilimciagi/calisma-mekanlari) - Çalışma mekanlarını bu repository altında listeliyoruz (7 months ago)
+- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#12](https://emre.xyz/til/12/) (1 week ago)
-- [#11](https://emre.xyz/til/11/) (1 week ago)
-- [#10](https://emre.xyz/til/10/) (1 week ago)
-- [Disabling Screen Off and Screensaver on Debian / Linux](https://emre.xyz/posts/linux-disable-screen-off-and-screensaver/) (1 month ago)
-- [Duyuru: Haydar Külekçi ile Qdrant Vector DB](https://emre.xyz/posts/qdrant-vector-db-haydar-kulekci-duyuru/) (2 months ago) 
+- [#13](https://emre.xyz/til/13/) (1 week ago)
+- [#12](https://emre.xyz/til/12/) (2 weeks ago)
+- [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (2 weeks ago)
+- [#11](https://emre.xyz/til/11/) (1 month ago)
+- [#10](https://emre.xyz/til/10/) (1 month ago) 
 
 #### 📫 stalk me
 
@@ -49,10 +51,13 @@ Let's team up and create something awesome!
 - Podcasts: https://anchor.fm/delirehberi
 - Soundcloud: https://soundcloud.com/delirehberi
 - Nostr: https://satellite.earth/@delirehberi@emre.xyz 
+- Lobsters: https://lobste.rs/~delirehberi
 
 
 #### 👯 Check out some of my recent followers
 
+- [CharlesDerek](https://github.com/CharlesDerek)
+- [Connor9994](https://github.com/Connor9994)
 - [eust-w](https://github.com/eust-w)
 - [syswe](https://github.com/syswe)
 - [chipnertkj](https://github.com/chipnertkj)
@@ -61,18 +66,6 @@ Let's team up and create something awesome!
 - [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
 - [SeherKumsar](https://github.com/SeherKumsar)
-- [Bi7g3](https://github.com/Bi7g3)
-- [selda21](https://github.com/selda21)
-- [jariwarlord](https://github.com/jariwarlord)
-- [aslihanguven](https://github.com/aslihanguven)
-- [Whapi-Cloud](https://github.com/Whapi-Cloud)
-- [eyupfidan](https://github.com/eyupfidan)
-- [ramazansancar](https://github.com/ramazansancar)
-- [harrialeksi](https://github.com/harrialeksi)
-- [alicangunduz](https://github.com/alicangunduz)
-- [haktanakdag](https://github.com/haktanakdag)
-- [aliemir](https://github.com/aliemir)
-- [bahargumuser](https://github.com/bahargumuser)
 
 
 
