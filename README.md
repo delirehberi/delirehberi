@@ -52,6 +52,7 @@ Let's team up and create something awesome!
 - Soundcloud: https://soundcloud.com/delirehberi
 - Nostr: https://satellite.earth/@delirehberi@emre.xyz 
 - Lobsters: https://lobste.rs/~delirehberi
+- Stackoverflow: https://stackoverflow.com/users/673223/delirehberi
 
 
 #### 👯 Check out some of my recent followers
