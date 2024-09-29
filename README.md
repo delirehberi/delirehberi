@@ -15,7 +15,7 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (4 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (4 months ago)
@@ -36,9 +36,9 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#13](https://emre.xyz/til/13/) (1 week ago)
+- [#13](https://emre.xyz/til/13/) (2 weeks ago)
 - [#12](https://emre.xyz/til/12/) (2 weeks ago)
-- [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (2 weeks ago)
+- [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (3 weeks ago)
 - [#11](https://emre.xyz/til/11/) (1 month ago)
 - [#10](https://emre.xyz/til/10/) (1 month ago) 
 
