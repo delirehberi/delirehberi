@@ -37,7 +37,7 @@ Let's team up and create something awesome!
 #### 📜 My recent blog posts 
 
 - [#13](https://emre.xyz/til/13/) (2 weeks ago)
-- [#12](https://emre.xyz/til/12/) (2 weeks ago)
+- [#12](https://emre.xyz/til/12/) (3 weeks ago)
 - [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (3 weeks ago)
 - [#11](https://emre.xyz/til/11/) (1 month ago)
 - [#10](https://emre.xyz/til/10/) (1 month ago) 
