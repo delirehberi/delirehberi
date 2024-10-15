@@ -15,11 +15,11 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 weeks ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 month ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (4 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (4 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (4 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (4 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (4 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (5 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (5 months ago)
@@ -36,8 +36,8 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [#13](https://emre.xyz/til/13/) (3 weeks ago)
-- [#12](https://emre.xyz/til/12/) (4 weeks ago)
+- [#13](https://emre.xyz/til/13/) (1 month ago)
+- [#12](https://emre.xyz/til/12/) (1 month ago)
 - [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (1 month ago)
 - [#11](https://emre.xyz/til/11/) (1 month ago)
 - [#10](https://emre.xyz/til/10/) (1 month ago) 
@@ -57,7 +57,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
-- [CharlesDerek](https://github.com/CharlesDerek)
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Connor9994](https://github.com/Connor9994)
 - [eust-w](https://github.com/eust-w)
 - [syswe](https://github.com/syswe)
