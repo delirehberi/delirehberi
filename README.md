@@ -16,8 +16,8 @@ Let's team up and create something awesome!
 #### 👷 Check out what I'm currently working on
 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 weeks ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (4 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 weeks ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (5 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (5 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (5 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (5 months ago)
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (2 days ago)
-- [#14](https://emre.xyz/til/14/) (1 week ago)
-- [#13](https://emre.xyz/til/13/) (1 month ago)
-- [#12](https://emre.xyz/til/12/) (1 month ago)
-- [What makes a language good for me?](https://emre.xyz/posts/what-makes-a-language-good-for-me/) (1 month ago) 
+- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (3 days ago)
+- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 week ago)
+- [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (1 week ago)
+- [#14](https://emre.xyz/til/14/) (2 weeks ago)
+- [#13](https://emre.xyz/til/13/) (1 month ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [kamilfatsa](https://github.com/kamilfatsa)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Connor9994](https://github.com/Connor9994)
 - [eust-w](https://github.com/eust-w)
@@ -66,7 +67,6 @@ Let's team up and create something awesome!
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
-- [SeherKumsar](https://github.com/SeherKumsar)
 
 
 
