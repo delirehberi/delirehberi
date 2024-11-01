@@ -15,8 +15,8 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 weeks ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (5 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (5 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (5 months ago)
@@ -36,10 +36,10 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (3 days ago)
+- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (6 days ago)
 - [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 week ago)
 - [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (1 week ago)
-- [#14](https://emre.xyz/til/14/) (2 weeks ago)
+- [#14](https://emre.xyz/til/14/) (3 weeks ago)
 - [#13](https://emre.xyz/til/13/) (1 month ago) 
 
 #### 📫 stalk me
