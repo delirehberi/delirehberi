@@ -15,16 +15,16 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (5 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (5 months ago)
-- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (5 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (6 months ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (6 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (6 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (6 months ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (6 months ago)
-- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (10 months ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (7 months ago)
 - [eresbiotech/akademi.eresbiotech.com](https://github.com/eresbiotech/akademi.eresbiotech.com) -  (10 months ago)
+- [workouse/utils-ai-plugin](https://github.com/workouse/utils-ai-plugin) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (2 weeks ago)
-- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (3 weeks ago)
-- [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (3 weeks ago)
-- [#14](https://emre.xyz/til/14/) (1 month ago)
-- [#13](https://emre.xyz/til/13/) (2 months ago) 
+- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (3 days ago)
+- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (3 weeks ago)
+- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 month ago)
+- [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (1 month ago)
+- [#14](https://emre.xyz/til/14/) (1 month ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [mi6paulino](https://github.com/mi6paulino)
 - [kamilfatsa](https://github.com/kamilfatsa)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Connor9994](https://github.com/Connor9994)
@@ -66,7 +67,6 @@ Let's team up and create something awesome!
 - [DavidMarom](https://github.com/DavidMarom)
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
-- [merakediyoruzcom](https://github.com/merakediyoruzcom)
 
 
 
