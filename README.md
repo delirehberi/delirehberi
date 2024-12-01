@@ -15,8 +15,8 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (3 days ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (3 days ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (5 days ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (5 days ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (6 months ago)
@@ -59,7 +59,6 @@ Let's team up and create something awesome!
 
 - [mi6paulino](https://github.com/mi6paulino)
 - [kamilfatsa](https://github.com/kamilfatsa)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Connor9994](https://github.com/Connor9994)
 - [syswe](https://github.com/syswe)
 - [chipnertkj](https://github.com/chipnertkj)
@@ -67,6 +66,7 @@ Let's team up and create something awesome!
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
+- [SeherKumsar](https://github.com/SeherKumsar)
 
 
 
