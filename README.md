@@ -15,15 +15,15 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (5 days ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (5 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 month ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 days ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 week ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (1 week ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (6 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (6 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (6 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (6 months ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (6 months ago)
+- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (7 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (7 months ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (1 week ago)
+- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (3 days ago)
+- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (3 days ago)
+- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (2 weeks ago)
 - [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (1 month ago)
-- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 month ago)
-- [The Artful Journey of Gülsüm Sayım: A Deep Dive into Her World of Paintings](https://emre.xyz/posts/gulsum-sayim-painter/) (1 month ago)
-- [#14](https://emre.xyz/til/14/) (1 month ago) 
+- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 month ago) 
 
 #### 📫 stalk me
 
