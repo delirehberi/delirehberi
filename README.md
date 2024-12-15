@@ -15,14 +15,14 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 days ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 week ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (2 weeks ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (2 weeks ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (6 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (6 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (6 months ago)
-- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (6 months ago)
+- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (7 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (7 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (7 months ago)
 
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (3 days ago)
-- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (3 days ago)
-- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (2 weeks ago)
-- [Doğru ve Yanlış Üzerine Düşüncelerim](https://emre.xyz/posts/dogru-ve-yanlis/) (1 month ago)
-- [Fikret Mualla: Sanat ve Melankoli Üzerine Bir Portre](https://emre.xyz/posts/fikret-mualla/) (1 month ago) 
+- [Susuzluk Geçer, Sussuzluk Geçmez](https://emre.xyz/posts/susuzluk-gecer/) (5 days ago)
+- [Saçmacık](https://emre.xyz/posts/sacmacik/) (6 days ago)
+- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (1 week ago)
+- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (1 week ago)
+- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (3 weeks ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,7 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [mi6paulino](https://github.com/mi6paulino)
 - [kamilfatsa](https://github.com/kamilfatsa)
 - [Connor9994](https://github.com/Connor9994)
@@ -66,7 +67,6 @@ Let's team up and create something awesome!
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
 - [fabyo0](https://github.com/fabyo0)
 - [merakediyoruzcom](https://github.com/merakediyoruzcom)
-- [SeherKumsar](https://github.com/SeherKumsar)
 
 
 
