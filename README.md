@@ -15,16 +15,16 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (2 weeks ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (3 weeks ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (3 weeks ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (6 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (6 months ago)
-- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (6 months ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (7 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (7 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (7 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (7 months ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (7 months ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Susuzluk Geçer, Sussuzluk Geçmez](https://emre.xyz/posts/susuzluk-gecer/) (5 days ago)
-- [Saçmacık](https://emre.xyz/posts/sacmacik/) (6 days ago)
-- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (1 week ago)
-- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (1 week ago)
-- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (3 weeks ago) 
+- [Susuzluk Geçer, Sussuzluk Geçmez](https://emre.xyz/posts/susuzluk-gecer/) (1 week ago)
+- [Saçmacık](https://emre.xyz/posts/sacmacik/) (1 week ago)
+- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (2 weeks ago)
+- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (2 weeks ago)
+- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (1 month ago) 
 
 #### 📫 stalk me
 
