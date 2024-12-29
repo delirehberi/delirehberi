@@ -15,11 +15,11 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (3 weeks ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 days ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 month ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (1 month ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (2 months ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (6 months ago)
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (7 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (7 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (7 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (7 months ago)
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Susuzluk Geçer, Sussuzluk Geçmez](https://emre.xyz/posts/susuzluk-gecer/) (1 week ago)
-- [Saçmacık](https://emre.xyz/posts/sacmacik/) (1 week ago)
-- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (2 weeks ago)
-- [Kalk Da Yerine Yat](https://emre.xyz/posts/kalk-da-yerine-yat/) (2 weeks ago)
-- [Leblebi Tozu](https://emre.xyz/posts/leblebi-tozu/) (1 month ago) 
+- [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (3 days ago)
+- [En Derune](https://emre.xyz/posts/en-derune/) (4 days ago)
+- [Susuzluk Geçer, Sussuzluk Geçmez](https://emre.xyz/posts/susuzluk-gecer/) (2 weeks ago)
+- [Saçmacık](https://emre.xyz/posts/sacmacik/) (2 weeks ago)
+- [Zorbaslar](https://emre.xyz/posts/zorbaslar/) (3 weeks ago) 
 
 #### 📫 stalk me
 
