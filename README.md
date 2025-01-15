@@ -15,14 +15,14 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 week ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (1 month ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (7 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (7 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (7 months ago)
-- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (7 months ago)
+- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (8 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (8 months ago)
 - [workouse/site](https://github.com/workouse/site) - Workouse.com web site (8 months ago)
 
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Fare Avcısı](https://emre.xyz/posts/fare-avcisi/) (2 days ago)
-- [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (6 days ago)
-- [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (6 days ago)
-- [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (1 week ago)
-- [En Derune](https://emre.xyz/posts/en-derune/) (2 weeks ago) 
+- [Fare Avcısı](https://emre.xyz/posts/fare-avcisi/) (1 week ago)
+- [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (1 week ago)
+- [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (1 week ago)
+- [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (2 weeks ago)
+- [En Derune](https://emre.xyz/posts/en-derune/) (3 weeks ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,8 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
+- [mowhn](https://github.com/mowhn)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [mi6paulino](https://github.com/mi6paulino)
 - [kamilfatsa](https://github.com/kamilfatsa)
@@ -65,8 +67,6 @@ Let's team up and create something awesome!
 - [chipnertkj](https://github.com/chipnertkj)
 - [DavidMarom](https://github.com/DavidMarom)
 - [tarik-kirlioglu](https://github.com/tarik-kirlioglu)
-- [fabyo0](https://github.com/fabyo0)
-- [merakediyoruzcom](https://github.com/merakediyoruzcom)
 
 
 
