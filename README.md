@@ -16,9 +16,9 @@ Let's team up and create something awesome!
 #### 👷 Check out what I'm currently working on
 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 weeks ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (3 weeks ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 month ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (2 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (3 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (8 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (8 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (8 months ago)
@@ -37,8 +37,8 @@ Let's team up and create something awesome!
 #### 📜 My recent blog posts 
 
 - [Fare Avcısı](https://emre.xyz/posts/fare-avcisi/) (3 weeks ago)
-- [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (3 weeks ago)
-- [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (3 weeks ago)
+- [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (1 month ago)
+- [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (1 month ago)
 - [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (1 month ago)
 - [En Derune](https://emre.xyz/posts/en-derune/) (1 month ago) 
 
