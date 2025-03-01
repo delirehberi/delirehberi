@@ -15,9 +15,9 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 month ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (1 month ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (2 months ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (3 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (4 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (9 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (9 months ago)
@@ -36,11 +36,11 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
+- [Güç Algısı](https://emre.xyz/posts/guc-algisi/) (1 week ago)
 - [Fare Avcısı](https://emre.xyz/posts/fare-avcisi/) (1 month ago)
 - [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (1 month ago)
 - [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (1 month ago)
-- [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (1 month ago)
-- [En Derune](https://emre.xyz/posts/en-derune/) (1 month ago) 
+- [Zinnur Tiryaki](https://emre.xyz/posts/zinnur-tiryaki/) (2 months ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,8 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [bonzum](https://github.com/bonzum)
+- [elhadjx](https://github.com/elhadjx)
 - [LinuxJS](https://github.com/LinuxJS)
 - [kemal-yilmaz](https://github.com/kemal-yilmaz)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -65,8 +67,6 @@ Let's team up and create something awesome!
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [mi6paulino](https://github.com/mi6paulino)
 - [kamilfatsa](https://github.com/kamilfatsa)
-- [Connor9994](https://github.com/Connor9994)
-- [chipnertkj](https://github.com/chipnertkj)
 
 
 
