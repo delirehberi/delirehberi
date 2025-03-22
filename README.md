@@ -15,16 +15,16 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (2 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (3 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (5 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (9 months ago)
-- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (9 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (9 months ago)
+- [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (10 months ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (10 months ago)
 - [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (10 months ago)
 - [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (10 months ago)
-- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (10 months ago)
+- [workouse/site](https://github.com/workouse/site) - Workouse.com web site (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (1 week ago)
-- [Güç Algısı](https://emre.xyz/posts/guc-algisi/) (3 weeks ago)
+- [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (2 weeks ago)
+- [Güç Algısı](https://emre.xyz/posts/guc-algisi/) (4 weeks ago)
 - [Fare Avcısı](https://emre.xyz/posts/fare-avcisi/) (2 months ago)
 - [Yine Düştüm Şiire](https://emre.xyz/posts/yine-dustum-siire/) (2 months ago)
 - [İki Bin Yirmi Beş](https://emre.xyz/posts/iki-bin-yirmi-bes/) (2 months ago) 
