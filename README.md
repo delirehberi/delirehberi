@@ -15,10 +15,10 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (3 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (5 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (6 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (7 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (11 months ago)
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (11 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (11 months ago)
@@ -35,9 +35,9 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Nostr](https://emre.xyz/posts/nostr/) (6 days ago)
+- [Nostr](https://emre.xyz/posts/nostr/) (1 week ago)
 - [Tralalala](https://emre.xyz/posts/tralalala/) (3 weeks ago)
-- [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (3 weeks ago)
+- [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (4 weeks ago)
 - [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (1 month ago)
 - [Güç Algısı](https://emre.xyz/posts/guc-algisi/) (2 months ago) 
 
