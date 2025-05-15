@@ -15,15 +15,14 @@ Let's team up and create something awesome!
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 weeks ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (4 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (5 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (7 months ago)
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (11 months ago)
-- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (11 months ago)
 - [workouse/link-preview-generator](https://github.com/workouse/link-preview-generator) - Link preview generation library.   (11 months ago)
-- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (11 months ago)
-- [workouse/timezone-updater](https://github.com/workouse/timezone-updater) - Slack demo app (1 year ago)
+- [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) -  (11 months ago)
+- [workouse/demo-oauth](https://github.com/workouse/demo-oauth) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +34,7 @@ Let's team up and create something awesome!
 
 #### 📜 My recent blog posts 
 
-- [Nostr](https://emre.xyz/posts/nostr/) (2 weeks ago)
+- [Nostr](https://emre.xyz/posts/nostr/) (3 weeks ago)
 - [Tralalala](https://emre.xyz/posts/tralalala/) (1 month ago)
 - [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (1 month ago)
 - [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (2 months ago)
@@ -56,6 +55,8 @@ Let's team up and create something awesome!
 
 #### 👯 Check out some of my recent followers
 
+- [sins921](https://github.com/sins921)
+- [standardgalactic](https://github.com/standardgalactic)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
@@ -64,8 +65,6 @@ Let's team up and create something awesome!
 - [LinuxJS](https://github.com/LinuxJS)
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 - [mowhn](https://github.com/mowhn)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [mi6paulino](https://github.com/mi6paulino)
 
 
 
