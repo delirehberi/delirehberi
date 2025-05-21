@@ -3,11 +3,15 @@
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
-Hey there! I'm Emre, a web developer who's all about PHP, Symfony, NodeJS, ReactJS, Django, Wordpress, Shopify and a sprinkle of Haskell for that extra flair.
-I'm your go-to guy for crafting cool websites and web applications that work like a charm on any device. 
-Check out my work at [Workouse](https://workouse.com) to see what I've been up to lately. 
-Oh, and if you've got a freelance gig, hit me up on [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0). 
-Let's team up and create something awesome!
+👋 I’m Emre — a Senior Fullstack Developer with 15+ years of crafting scalable solutions in PHP/Symfony, React, Node.js, and AWS. Passionate about open-source, DevOps automation, and mentoring devs. Here, you’ll find:
+
+🔧 Framework contributions (Symfony plugins, CI/CD templates).
+
+🚀 Projects like Sylius-based e-commerce platforms, zero-downtime deployment pipelines, and AI-driven tools.
+
+💡 Experiments in Haskell, Go, and modern web stacks.
+
+Let’s build something impactful! [Open to collabs, feedback, and coffee chats ☕]
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
@@ -31,12 +35,12 @@ Let's team up and create something awesome!
 #### 📫 stalk me
 
 - Blog: https://emre.xyz 
+- Resume: https://emre.xyz/resume.pdf
 - Upwork: https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0
 - Linkedin: https://linkedin.com/in/delirehberi 
 - Youtube: https://www.youtube.com/@delirehberi
 - Podcasts: https://anchor.fm/delirehberi
 - Soundcloud: https://soundcloud.com/delirehberi
-- Nostr: https://satellite.earth/@delirehberi@emre.xyz 
 - Lobsters: https://lobste.rs/~delirehberi
 - Stackoverflow: https://stackoverflow.com/users/673223/delirehberi
 
