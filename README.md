@@ -19,26 +19,26 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (5 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (6 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (8 months ago)
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) -  (1 year ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) - 
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) - 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - 
-- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) - 
 
 #### 📜 My recent blog posts 
 
 - [Nostr](https://emre.xyz/posts/nostr/) (1 month ago)
-- [Tralalala](https://emre.xyz/posts/tralalala/) (1 month ago)
-- [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (1 month ago)
-- [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (2 months ago)
+- [Tralalala](https://emre.xyz/posts/tralalala/) (2 months ago)
+- [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (2 months ago)
+- [Yazmak Zorundayım](https://emre.xyz/posts/yazmak-zorundayim/) (3 months ago)
 - [Güç Algısı](https://emre.xyz/posts/guc-algisi/) (3 months ago) 
 
 #### 📫 stalk me
@@ -56,9 +56,9 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [discodot](https://github.com/discodot)
 - [sins921](https://github.com/sins921)
 - [standardgalactic](https://github.com/standardgalactic)
-- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [bonzum](https://github.com/bonzum)
