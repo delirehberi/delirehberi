@@ -19,8 +19,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (5 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (6 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (8 months ago)
@@ -56,7 +56,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
-- [discodot](https://github.com/discodot)
 - [sins921](https://github.com/sins921)
 - [standardgalactic](https://github.com/standardgalactic)
 - [helallao](https://github.com/helallao)
@@ -66,6 +65,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [LinuxJS](https://github.com/LinuxJS)
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 - [mowhn](https://github.com/mowhn)
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 
 
