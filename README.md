@@ -19,11 +19,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (5 days ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 week ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (5 months ago)
-- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (6 months ago)
+- [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (7 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (8 months ago)
 
 #### 🌱 My latest projects
@@ -36,7 +36,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [#15](https://emre.xyz/til/15/) (5 days ago)
+- [#15](https://emre.xyz/til/15/) (1 week ago)
 - [Nostr](https://emre.xyz/posts/nostr/) (2 months ago)
 - [Tralalala](https://emre.xyz/posts/tralalala/) (2 months ago)
 - [Kendini Bilmek](https://emre.xyz/posts/kendini-bilmek/) (2 months ago)
@@ -57,6 +57,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
+- [helallao](https://github.com/helallao)
 - [filedonkey](https://github.com/filedonkey)
 - [sins921](https://github.com/sins921)
 - [standardgalactic](https://github.com/standardgalactic)
@@ -65,8 +67,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [elhadjx](https://github.com/elhadjx)
 - [LinuxJS](https://github.com/LinuxJS)
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
-- [mowhn](https://github.com/mowhn)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 
 
