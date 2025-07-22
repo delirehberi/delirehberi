@@ -19,9 +19,9 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (4 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 weeks ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 month ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (6 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (7 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (9 months ago)
@@ -36,11 +36,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Kalem - Ahmet Serhat Ak](https://emre.xyz/posts/kalem-ahmet-serhat-ak/) (2 days ago)
-- [Hidatik Kist - Kedi Köpek Kisti](https://emre.xyz/posts/hidatik-kist-kedi-kopek-kisti/) (3 days ago)
-- [Viking Night](https://emre.xyz/posts/viking-night/) (1 week ago)
-- [Tesadüf](https://emre.xyz/posts/tesaduf/) (1 week ago)
-- [#15](https://emre.xyz/til/15/) (4 weeks ago) 
+- [Kadın Girişimci Destek Programları](https://emre.xyz/posts/kadin-girisimci-destek-programlari/) (5 days ago)
+- [Kalem - Ahmet Serhat Ak](https://emre.xyz/posts/kalem-ahmet-serhat-ak/) (1 week ago)
+- [Hidatik Kist - Kedi Köpek Kisti](https://emre.xyz/posts/hidatik-kist-kedi-kopek-kisti/) (1 week ago)
+- [Viking Night](https://emre.xyz/posts/viking-night/) (2 weeks ago)
+- [Tesadüf](https://emre.xyz/posts/tesaduf/) (2 weeks ago) 
 
 #### 📫 stalk me
 
@@ -57,6 +57,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [sins921](https://github.com/sins921)
@@ -66,7 +67,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [elhadjx](https://github.com/elhadjx)
 - [LinuxJS](https://github.com/LinuxJS)
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
-- [mowhn](https://github.com/mowhn)
 
 
 
