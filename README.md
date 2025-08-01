@@ -19,12 +19,12 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 month ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (6 months ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (7 months ago)
 - [amaeksi/elcin.xyz](https://github.com/amaeksi/elcin.xyz) -  (8 months ago)
-- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (9 months ago)
+- [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,9 +36,9 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [About](https://emre.xyz/about/) (1 day ago)
-- [Kediler nasıllar?](https://emre.xyz/posts/kediler-nasillar/) (5 days ago)
-- [Kadın Girişimci Destek Programları](https://emre.xyz/posts/kadin-girisimci-destek-programlari/) (1 week ago)
+- [About](https://emre.xyz/about/) (4 days ago)
+- [Kediler nasıllar?](https://emre.xyz/posts/kediler-nasillar/) (1 week ago)
+- [Kadın Girişimci Destek Programları](https://emre.xyz/posts/kadin-girisimci-destek-programlari/) (2 weeks ago)
 - [Kalem - Ahmet Serhat Ak](https://emre.xyz/posts/kalem-ahmet-serhat-ak/) (2 weeks ago)
 - [Hidatik Kist - Kedi Köpek Kisti](https://emre.xyz/posts/hidatik-kist-kedi-kopek-kisti/) (2 weeks ago) 
 
