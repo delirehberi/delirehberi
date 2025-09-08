@@ -19,7 +19,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 month ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (8 months ago)
@@ -36,7 +36,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Eski Yazılarım Hakkında](https://emre.xyz/posts/eski-yazilar/) (3 weeks ago)
+- [Eski Yazılarım Hakkında](https://emre.xyz/posts/eski-yazilar/) (1 month ago)
 - [About](https://emre.xyz/about/) (1 month ago)
 - [Kediler nasıllar?](https://emre.xyz/posts/kediler-nasillar/) (1 month ago)
 - [Kadın Girişimci Destek Programları](https://emre.xyz/posts/kadin-girisimci-destek-programlari/) (1 month ago)
@@ -57,6 +57,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [dogukanonderr](https://github.com/dogukanonderr)
 - [cnkyvz](https://github.com/cnkyvz)
 - [sins921](https://github.com/sins921)
 - [standardgalactic](https://github.com/standardgalactic)
@@ -66,7 +67,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 - [mowhn](https://github.com/mowhn)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [mi6paulino](https://github.com/mi6paulino)
 
 
 
