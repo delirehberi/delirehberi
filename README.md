@@ -19,11 +19,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 days ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (3 days ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (6 days ago)
-- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (6 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (6 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (1 week ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 week ago)
+- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (1 week ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (8 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (11 months ago)
 
@@ -37,11 +37,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (6 days ago)
-- [Boykotcan](https://emre.xyz/posts/boykotcan/) (1 week ago)
-- [Eski Yazılarım Hakkında](https://emre.xyz/posts/eski-yazilar/) (1 month ago)
-- [About](https://emre.xyz/about/) (1 month ago)
-- [Kediler nasıllar?](https://emre.xyz/posts/kediler-nasillar/) (1 month ago) 
+- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (6 days ago)
+- [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (1 week ago)
+- [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (1 week ago)
+- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (1 week ago)
+- [Boykotcan](https://emre.xyz/posts/boykotcan/) (2 weeks ago) 
 
 #### 📫 stalk me
 
@@ -58,6 +58,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [JulioAbreuCanalDev33](https://github.com/JulioAbreuCanalDev33)
+- [onamfc](https://github.com/onamfc)
 - [vishalxl](https://github.com/vishalxl)
 - [dogukanonderr](https://github.com/dogukanonderr)
 - [cnkyvz](https://github.com/cnkyvz)
@@ -66,8 +68,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [bonzum](https://github.com/bonzum)
 - [elhadjx](https://github.com/elhadjx)
 - [LinuxJS](https://github.com/LinuxJS)
-- [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
-- [mowhn](https://github.com/mowhn)
 
 
 
