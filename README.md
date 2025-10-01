@@ -19,10 +19,10 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (2 weeks ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 weeks ago)
-- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (2 weeks ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (3 weeks ago)
+- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (3 weeks ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (9 months ago)
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources. (1 year ago)
@@ -37,11 +37,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (1 week ago)
+- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (1 day ago)
+- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (2 weeks ago)
 - [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (2 weeks ago)
 - [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (2 weeks ago)
-- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (2 weeks ago)
-- [Boykotcan](https://emre.xyz/posts/boykotcan/) (3 weeks ago) 
+- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (3 weeks ago) 
 
 #### 📫 stalk me
 
@@ -58,6 +58,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [alltheseas](https://github.com/alltheseas)
+- [emilycodestar](https://github.com/emilycodestar)
 - [JulioAbreuCanalDev33](https://github.com/JulioAbreuCanalDev33)
 - [onamfc](https://github.com/onamfc)
 - [vishalxl](https://github.com/vishalxl)
@@ -66,8 +68,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [sins921](https://github.com/sins921)
 - [standardgalactic](https://github.com/standardgalactic)
 - [bonzum](https://github.com/bonzum)
-- [elhadjx](https://github.com/elhadjx)
-- [LinuxJS](https://github.com/LinuxJS)
 
 
 
