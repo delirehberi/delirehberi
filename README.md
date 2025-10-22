@@ -19,11 +19,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (3 weeks ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (1 month ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 month ago)
 - [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (1 month ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 months ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (9 months ago)
 
 #### 🌱 My latest projects
@@ -36,8 +36,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (2 weeks ago)
-- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (4 weeks ago)
+- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (3 weeks ago)
+- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (1 month ago)
 - [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (1 month ago)
 - [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (1 month ago)
 - [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (1 month ago) 
