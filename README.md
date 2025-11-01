@@ -19,7 +19,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (4 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 month ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (1 month ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 month ago)
 - [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (1 month ago)
@@ -36,7 +36,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (4 weeks ago)
+- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (1 month ago)
 - [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (1 month ago)
 - [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (1 month ago)
 - [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (1 month ago)
@@ -57,6 +57,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [sukelec](https://github.com/sukelec)
 - [kowirth](https://github.com/kowirth)
 - [sphinxzerd](https://github.com/sphinxzerd)
@@ -66,7 +67,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [onamfc](https://github.com/onamfc)
 - [vishalxl](https://github.com/vishalxl)
 - [dogukanonderr](https://github.com/dogukanonderr)
-- [cnkyvz](https://github.com/cnkyvz)
 
 
 
