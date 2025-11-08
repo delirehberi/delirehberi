@@ -21,8 +21,8 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 month ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (1 month ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (1 month ago)
-- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (1 month ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 months ago)
+- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (2 months ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (10 months ago)
 
@@ -40,7 +40,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (1 month ago)
 - [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (1 month ago)
 - [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (1 month ago)
-- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (1 month ago) 
+- [Hugo2Nostr](https://emre.xyz/posts/0d64aa67/) (2 months ago) 
 
 #### 📫 stalk me
 
@@ -57,7 +57,6 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [sukelec](https://github.com/sukelec)
 - [kowirth](https://github.com/kowirth)
 - [sphinxzerd](https://github.com/sphinxzerd)
@@ -67,6 +66,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 - [onamfc](https://github.com/onamfc)
 - [vishalxl](https://github.com/vishalxl)
 - [dogukanonderr](https://github.com/dogukanonderr)
+- [cnkyvz](https://github.com/cnkyvz)
 
 
 
