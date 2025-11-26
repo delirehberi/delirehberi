@@ -34,7 +34,10 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📫 stalk me
 
-- Blog: https://emre.xyz 
+- Site: https://emre.xyz
+- Blog: https://blog.emre.xyz 
+- Nostr: https://nostr.emre.xyz
+- Calendar: https://cal.emre.xyz
 - Resume: https://emre.xyz/resume.pdf
 - Upwork: https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0
 - Linkedin: https://linkedin.com/in/delirehberi 
