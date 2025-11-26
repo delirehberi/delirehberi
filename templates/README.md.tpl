@@ -23,12 +23,12 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 5}}
+{{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts 
-{{range rss "https://emre.xyz/index.xml" 5}}
+{{range rss "https://blog.emre.xyz/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}} 
 
@@ -49,7 +49,7 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 
 #### 👯 Check out some of my recent followers
-{{range followers 10}}
+{{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
