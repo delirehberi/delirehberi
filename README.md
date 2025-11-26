@@ -19,32 +19,42 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (5 days ago)
+- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (today)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) -  (1 day ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (2 months ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 months ago)
 - [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (2 months ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 months ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (10 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - 
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - 
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı
 - [delirehberi/tiller](https://github.com/delirehberi/tiller) - 
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) - 
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - 
+- [delirehberi/shell-find](https://github.com/delirehberi/shell-find) - 
+- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) - 
 
 #### 📜 My recent blog posts 
 
-- [Para!](https://emre.xyz/posts/para/) (5 days ago)
-- [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/) (1 month ago)
-- [Nazmi Ziya](https://emre.xyz/posts/nazmi-ziya/) (2 months ago)
-- [Elibelinde Motifi ve Mimari](https://emre.xyz/posts/elibelinde-motifi/) (2 months ago)
-- [Fransız Sarayı](https://emre.xyz/posts/fransiz-sarayi/) (2 months ago) 
+- [Para!](https://blog.emre.xyz/posts/para/) (2 weeks ago)
+- [Custom LNAddress with Self-Hosted AlbyHub](https://blog.emre.xyz/posts/custom-lnaddress/) (1 month ago)
+- [Nazmi Ziya](https://blog.emre.xyz/posts/nazmi-ziya/) (2 months ago)
+- [Elibelinde Motifi ve Mimari](https://blog.emre.xyz/posts/elibelinde-motifi/) (2 months ago)
+- [Fransız Sarayı](https://blog.emre.xyz/posts/fransiz-sarayi/) (2 months ago) 
 
 #### 📫 stalk me
 
-- Blog: https://emre.xyz 
+- Site: https://emre.xyz
+- Blog: https://blog.emre.xyz 
+- Nostr: https://nostr.emre.xyz
+- Calendar: https://cal.emre.xyz
 - Resume: https://emre.xyz/resume.pdf
 - Upwork: https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0
 - Linkedin: https://linkedin.com/in/delirehberi 
@@ -57,16 +67,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [S4IL21](https://github.com/S4IL21)
 - [sukelec](https://github.com/sukelec)
 - [kowirth](https://github.com/kowirth)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [alltheseas](https://github.com/alltheseas)
-- [emilycodestar](https://github.com/emilycodestar)
-- [JulioAbreuCanalDev33](https://github.com/JulioAbreuCanalDev33)
-- [onamfc](https://github.com/onamfc)
-- [vishalxl](https://github.com/vishalxl)
 
 
 
