@@ -19,32 +19,32 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (today)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) -  (1 day ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) -  (1 day ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) -  (2 months ago)
+- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (1 day ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (4 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (2 months ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 months ago)
 - [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (2 months ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 months ago)
-- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (10 months ago)
+- [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (11 months ago)
 
 #### 🌱 My latest projects
 
 - [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - 
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - 
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays.
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) - 
+- [delirehberi/tiller](https://github.com/delirehberi/tiller) - Tiller is a command-line application to help manage your Today I Learned (TIL) notes. It automates the process of creating, and committing new TIL entries using your preferred text editor and Git.
 - [delirehberi/bsky-sharer](https://github.com/delirehberi/bsky-sharer) - 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - 
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog
 - [delirehberi/shell-find](https://github.com/delirehberi/shell-find) - 
-- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) - 
+- [delirehberi/php-simple-login](https://github.com/delirehberi/php-simple-login) - Demo PHP login system for educational purpose
 
 #### 📜 My recent blog posts 
 
 - [Para!](https://blog.emre.xyz/posts/para/) (2 weeks ago)
-- [Custom LNAddress with Self-Hosted AlbyHub](https://blog.emre.xyz/posts/custom-lnaddress/) (1 month ago)
+- [Custom LNAddress with Self-Hosted AlbyHub](https://blog.emre.xyz/posts/custom-lnaddress/) (2 months ago)
 - [Nazmi Ziya](https://blog.emre.xyz/posts/nazmi-ziya/) (2 months ago)
 - [Elibelinde Motifi ve Mimari](https://blog.emre.xyz/posts/elibelinde-motifi/) (2 months ago)
 - [Fransız Sarayı](https://blog.emre.xyz/posts/fransiz-sarayi/) (2 months ago) 
