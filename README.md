@@ -19,12 +19,12 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (3 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (5 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 day ago)
+- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (1 week ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (2 months ago)
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (2 months ago)
-- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (2 months ago)
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (3 months ago)
+- [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (3 months ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 months ago)
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı (11 months ago)
 
@@ -43,11 +43,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 📜 My recent blog posts 
 
-- [Para!](https://blog.emre.xyz/posts/para/) (3 weeks ago)
+- [DevFest Istanbul 2025](https://blog.emre.xyz/posts/devfest-istanbul-2025/) (1 day ago)
+- [Burnout&#39;un Üç Yılı Kendi Kendimin Labirentinde Kaybolmak](https://blog.emre.xyz/posts/515cbdcc/) (6 days ago)
+- [Para!](https://blog.emre.xyz/posts/para/) (4 weeks ago)
 - [Custom LNAddress with Self-Hosted AlbyHub](https://blog.emre.xyz/posts/custom-lnaddress/) (2 months ago)
-- [Nazmi Ziya](https://blog.emre.xyz/posts/nazmi-ziya/) (2 months ago)
-- [Elibelinde Motifi ve Mimari](https://blog.emre.xyz/posts/elibelinde-motifi/) (2 months ago)
-- [Fransız Sarayı](https://blog.emre.xyz/posts/fransiz-sarayi/) (2 months ago) 
+- [Nazmi Ziya](https://blog.emre.xyz/posts/nazmi-ziya/) (2 months ago) 
 
 #### 📫 stalk me
 
@@ -67,11 +67,11 @@ Let’s build something impactful! [Open to collabs, feedback, and coffee chats 
 
 #### 👯 Check out some of my recent followers
 
+- [emrekayik](https://github.com/emrekayik)
+- [erkamyaman](https://github.com/erkamyaman)
 - [S4IL21](https://github.com/S4IL21)
 - [sukelec](https://github.com/sukelec)
-- [kowirth](https://github.com/kowirth)
 - [sphinxzerd](https://github.com/sphinxzerd)
-- [alltheseas](https://github.com/alltheseas)
 
 
 
