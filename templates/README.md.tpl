@@ -3,15 +3,18 @@
 
 <img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
 
-👋 I’m Emre — a Senior Fullstack Developer with 15+ years of crafting scalable solutions in PHP/Symfony, React, Node.js, and AWS. Passionate about open-source, DevOps automation, and mentoring devs. Here, you’ll find:
+👋  Senior Fullstack Engineer | Haskell & Nix Enthusiast 20+ years of evolution from PHP/Symfony to specialized development in Haskell, TypeScript, and functional DevOps.
 
-🔧 Framework contributions (Symfony plugins, CI/CD templates).
+I help teams build scalable, "boring" (reliable) infrastructure and applications using:
 
-🚀 Projects like Sylius-based e-commerce platforms, zero-downtime deployment pipelines, and AI-driven tools.
+🔧 DevOps: Declarative system management with Nix and AWS.
 
-💡 Experiments in Haskell, Go, and modern web stacks.
+🚀 Edge Computing: Leveraging the Cloudflare ecosystem for global scale.
 
-Let’s build something impactful! [Open to collabs, feedback, and coffee chats ☕]
+💡 Code Quality: Utilizing strong typing and functional paradigms to reduce production regressions.
+
+💡 Passionate about NixOS, open-source, and mentoring devs in the transition to functional programming.
+
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
