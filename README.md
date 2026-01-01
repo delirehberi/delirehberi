@@ -22,11 +22,11 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 week ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 weeks ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (2 weeks ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 weeks ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 weeks ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 weeks ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (3 weeks ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
 - [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (1 month ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (3 months ago)
 - [rottenwheel/revuoxmrtheme](https://github.com/rottenwheel/revuoxmrtheme) - Revuo Monero Hugo/Markdown theme. (3 months ago)
@@ -47,9 +47,9 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 📜 My recent blog posts 
 
-- [LLM’lerin Geleceği ve Yazılım Geliştirmenin Dönüşümü](https://blog.emre.xyz/posts/llmlerin-gelisimi-ve-yazilim-gelistirmenin-donusumu/) (2 weeks ago)
+- [LLM’lerin Geleceği ve Yazılım Geliştirmenin Dönüşümü](https://blog.emre.xyz/posts/llmlerin-gelisimi-ve-yazilim-gelistirmenin-donusumu/) (3 weeks ago)
 - [DevFest Istanbul 2025](https://blog.emre.xyz/posts/devfest-istanbul-2025/) (3 weeks ago)
-- [Burnout&#39;un Üç Yılı Kendi Kendimin Labirentinde Kaybolmak](https://blog.emre.xyz/posts/515cbdcc/) (3 weeks ago)
+- [Burnout&#39;un Üç Yılı Kendi Kendimin Labirentinde Kaybolmak](https://blog.emre.xyz/posts/515cbdcc/) (1 month ago)
 - [Para!](https://blog.emre.xyz/posts/para/) (1 month ago)
 - [Custom LNAddress with Self-Hosted AlbyHub](https://blog.emre.xyz/posts/custom-lnaddress/) (3 months ago) 
 
