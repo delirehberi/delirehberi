@@ -22,11 +22,12 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (2 days ago)
-- [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors (6 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 weeks ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (4 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - This project allows you to publish your Hugo blog posts to the Nostr network as kind:30023 (Article) events, track already published posts, and manage deletions. It also includes debug tools to inspect events on relays. (1 week ago)
+- [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors (1 week ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 month ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 month ago)
 - [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (1 month ago)
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things  (4 months ago)
@@ -47,11 +48,11 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 📜 My recent blog posts 
 
-- [Journal Guardian](https://blog.emre.xyz/posts/journal-guardian/) (1 week ago)
+- [Kedileri Kaçırdım!](https://blog.emre.xyz/posts/189876e2/) (2 days ago)
+- [Salak](https://blog.emre.xyz/posts/7a8a6c81/) (1 week ago)
+- [Journal Guardian](https://blog.emre.xyz/posts/journal-guardian/) (2 weeks ago)
 - [LLM’lerin Geleceği ve Yazılım Geliştirmenin Dönüşümü](https://blog.emre.xyz/posts/llmlerin-gelisimi-ve-yazilim-gelistirmenin-donusumu/) (1 month ago)
-- [DevFest Istanbul 2025](https://blog.emre.xyz/posts/devfest-istanbul-2025/) (1 month ago)
-- [Burnout&#39;un Üç Yılı Kendi Kendimin Labirentinde Kaybolmak](https://blog.emre.xyz/posts/515cbdcc/) (1 month ago)
-- [Para!](https://blog.emre.xyz/posts/para/) (2 months ago) 
+- [DevFest Istanbul 2025](https://blog.emre.xyz/posts/devfest-istanbul-2025/) (1 month ago) 
 
 #### 📫 stalk me
 
@@ -71,11 +72,11 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 👯 Check out some of my recent followers
 
-- [rasidi3112](https://github.com/rasidi3112)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 - [elite-mob](https://github.com/elite-mob)
 - [fvarli](https://github.com/fvarli)
+- [emrekayik](https://github.com/emrekayik)
+- [erkamyaman](https://github.com/erkamyaman)
 
 
 
