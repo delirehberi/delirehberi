@@ -25,13 +25,13 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 weeks ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
 - [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 month ago)
-- [Carreb-AU/landing-page](https://github.com/Carreb-AU/landing-page) -  (1 month ago)
-- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (1 month ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 month ago)
+- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (1 month ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
 - [delirehberi/nostr-media-gallery](https://github.com/delirehberi/nostr-media-gallery) - Nostr media gallery extension, enter a users profile in any client and click the generate gallery in extension. It will load all images and will generate temporary gallery page.  (1 month ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (3 months ago)
 - [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors (3 months ago)
+- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (5 months ago)
 
 #### 🌱 My latest projects
 
