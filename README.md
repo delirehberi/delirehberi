@@ -22,9 +22,9 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 weeks ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 month ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (4 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 weeks ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 month ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 month ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (1 month ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
@@ -48,7 +48,7 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 📜 My recent blog posts 
 
-- [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (2 weeks ago)
+- [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (3 weeks ago)
 - [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (1 month ago)
 - [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (2 months ago)
 - [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (3 months ago)
