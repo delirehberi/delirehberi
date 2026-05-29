@@ -22,8 +22,9 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (2 weeks ago)
+- [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server  (1 day ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (3 weeks ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 month ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (2 months ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (2 months ago)
@@ -31,10 +32,10 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 - [delirehberi/nostr-media-gallery](https://github.com/delirehberi/nostr-media-gallery) - Nostr media gallery extension, enter a users profile in any client and click the generate gallery in extension. It will load all images and will generate temporary gallery page.  (2 months ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (4 months ago)
 - [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors (4 months ago)
-- [delirehberi/lafguzaf](https://github.com/delirehberi/lafguzaf) - Nostr client - React Native (5 months ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server 
 - [delirehberi/nostr-media-gallery](https://github.com/delirehberi/nostr-media-gallery) - Nostr media gallery extension, enter a users profile in any client and click the generate gallery in extension. It will load all images and will generate temporary gallery page. 
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem
 - [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors
@@ -44,15 +45,14 @@ I help teams build scalable, "boring" (reliable) infrastructure and applications
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz
 - [delirehberi/dogaclama](https://github.com/delirehberi/dogaclama) - dogaclama.emre.xyz Doğaçlama oyunlar veritabanı
-- [delirehberi/tiller](https://github.com/delirehberi/tiller) - Tiller is a command-line application to help manage your Today I Learned (TIL) notes. It automates the process of creating, and committing new TIL entries using your preferred text editor and Git.
 
 #### 📜 My recent blog posts 
 
-- [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (2 days ago)
+- [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (1 week ago)
 - [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (1 month ago)
 - [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (2 months ago)
-- [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (2 months ago)
-- [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (3 months ago) 
+- [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (3 months ago)
+- [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (4 months ago) 
 
 #### 📫 stalk me
 
