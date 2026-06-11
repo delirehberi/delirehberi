@@ -1,20 +1,16 @@
 <h3>Merhaba!</h3>
  
 
-<img align="right" src="https://media.giphy.com/media/ZE6HYckyroMWwSp11C/giphy-downsized.gif" width="260">
+I am a veteran Full-Stack Engineer, Open Source Contributor, and Web Generalist with over two decades of hands-on experience building for the web. Having shipped applications continuously since 2005, I have lived through and adapted to the entire evolution of the modern web stack—giving me deep intuitive insight into why today's architectural patterns exist.
 
-👋  Senior Fullstack Engineer | Haskell & Nix Enthusiast 20+ years of evolution from PHP/Symfony to specialized development in Haskell, TypeScript, and functional DevOps.
+My strength lies in my exceptional technical adaptability and pattern recognition. Rather than hyper-specializing in a single tool, I leverage an incredibly broad, multi-paradigm ecosystem to solve complex problems pragmatically, using whatever technology is best suited for the job:
 
-I help teams build scalable, "boring" (reliable) infrastructure and applications using:
+   - The Decentralized Web: Contributing to open-source software and architecting applications on top of the Nostr protocol.
+   - Polyglot Backend Engineering: Designing robust systems across distinct paradigms, including strongly-typed functional programming (Haskell), structured enterprise frameworks (PHP/Symfony), rapid application development (Python/Django), and asynchronous runtime environments (Node.js).
+   - Reproducible Infrastructure & DevOps: Utilizing Nix to manage bulletproof local systems and Docker for application isolation and predictable production deployments.
+   - Frontend & Dynamic Commercial Stacks: Assembling optimized UIs with React, Next.js, and Tailwind CSS, alongside extensive experience customizing heavy-hitting commercial engines like Shopify (plugins/templates), WordPress, and Webflow.
 
-🔧 DevOps: Declarative system management with Nix and AWS.
-
-🚀 Edge Computing: Leveraging the Cloudflare ecosystem for global scale.
-
-💡 Code Quality: Utilizing strong typing and functional paradigms to reduce production regressions.
-
-💡 Passionate about NixOS, open-source, and mentoring devs in the transition to functional programming.
-
+I am a battle-tested closer who values clean implementation over over-engineering. I look at technical documentation not as a crutch, but as a map to rapidly deploy stable, scalable, and decentralized web systems.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&layout=compact)
 
