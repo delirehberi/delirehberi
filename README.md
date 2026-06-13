@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 day ago)
-- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (5 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 days ago)
+- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (6 days ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server  (2 weeks ago)
@@ -85,7 +85,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 - [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (3 weeks ago)
 - [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (2 months ago)
-- [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (2 months ago)
+- [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (3 months ago)
 - [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (3 months ago)
 - [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (4 months ago)
 
