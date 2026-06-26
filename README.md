@@ -57,7 +57,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/site-v2](https://github.com/workouse/site-v2) -  (5 days ago)
+- [workouse/site-v2](https://github.com/workouse/site-v2) -  (6 days ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 weeks ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (2 weeks ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 weeks ago)
@@ -87,7 +87,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 - [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (2 months ago)
 - [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (3 months ago)
 - [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (4 months ago)
-- [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (4 months ago)
+- [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (5 months ago)
 
 #### 📚 Currently Reading
 
