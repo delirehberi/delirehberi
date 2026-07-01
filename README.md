@@ -57,11 +57,11 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/news](https://github.com/delirehberi/news) -  (1 day ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 day ago)
+- [delirehberi/news](https://github.com/delirehberi/news) -  (2 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 days ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (3 weeks ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 weeks ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 weeks ago)
 - [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server  (1 month ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 month ago)
 - [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 month ago)
