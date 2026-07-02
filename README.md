@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/news](https://github.com/delirehberi/news) -  (2 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 days ago)
+- [delirehberi/news](https://github.com/delirehberi/news) -  (3 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 days ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (3 weeks ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 weeks ago)
