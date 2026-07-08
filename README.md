@@ -57,11 +57,11 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/news](https://github.com/delirehberi/news) -  (4 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (4 days ago)
-- [delirehberi/deniz-goktas-olu-deniz](https://github.com/delirehberi/deniz-goktas-olu-deniz) - Transcript (5 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (5 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (5 days ago)
+- [delirehberi/news](https://github.com/delirehberi/news) -  (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (5 days ago)
+- [delirehberi/deniz-goktas-olu-deniz](https://github.com/delirehberi/deniz-goktas-olu-deniz) - Transcript (6 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (6 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (2 weeks ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (1 month ago)
 - [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server  (1 month ago)
