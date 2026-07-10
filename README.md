@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (6 days ago)
-- [delirehberi/news](https://github.com/delirehberi/news) -  (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
+- [delirehberi/news](https://github.com/delirehberi/news) -  (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/deniz-goktas-olu-deniz](https://github.com/delirehberi/deniz-goktas-olu-deniz) - Transcript (1 week ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
