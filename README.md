@@ -84,7 +84,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 #### 📜 My recent blog posts
 
 - [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (1 month ago)
-- [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (2 months ago)
+- [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (3 months ago)
 - [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (3 months ago)
 - [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (4 months ago)
 - [iki bin yirmi alti](https://blog.emre.xyz/posts/cfd02a14/) (5 months ago)
