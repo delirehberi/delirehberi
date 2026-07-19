@@ -57,10 +57,10 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (2 days ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (3 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 days ago)
-- [workouse/site-v2](https://github.com/workouse/site-v2) -  (6 days ago)
+- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (3 days ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (4 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (4 days ago)
+- [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [delirehberi/news](https://github.com/delirehberi/news) -  (2 weeks ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 weeks ago)
 - [delirehberi/deniz-goktas-olu-deniz](https://github.com/delirehberi/deniz-goktas-olu-deniz) - Transcript (2 weeks ago)
@@ -83,7 +83,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (1 month ago)
+- [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (2 months ago)
 - [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (3 months ago)
 - [Yalancı umutlar](https://blog.emre.xyz/posts/abb1ac9a7ddde5af/) (4 months ago)
 - [Teknofeodalizm - Dijital Toprak Ağalığı](https://blog.emre.xyz/posts/7492c6cf/) (4 months ago)
