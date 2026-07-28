@@ -57,9 +57,9 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 day ago)
-- [workouse/site-v2](https://github.com/workouse/site-v2) -  (4 days ago)
-- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
+- [workouse/site-v2](https://github.com/workouse/site-v2) -  (5 days ago)
+- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (1 week ago)
 - [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/news](https://github.com/delirehberi/news) -  (3 weeks ago)
@@ -83,7 +83,7 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [Kediler Nasıllar? - 3](https://blog.emre.xyz/posts/kediler-nasillar-3/) (4 days ago)
+- [Kediler Nasıllar? - 3](https://blog.emre.xyz/posts/kediler-nasillar-3/) (5 days ago)
 - [Absolit İsmail](https://blog.emre.xyz/posts/absolit-ismail/) (1 week ago)
 - [Kediler Nasıllar - 2](https://blog.emre.xyz/posts/3cbb084b/) (2 months ago)
 - [Kültürel Milliyetçilik](https://blog.emre.xyz/posts/214cb7662d195d4e/) (3 months ago)
