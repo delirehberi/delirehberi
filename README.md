@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (3 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
+- [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (4 days ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 weeks ago)
@@ -83,10 +83,10 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (2 days ago)
-- [Nasılım?](https://blog.emre.xyz/posts/nasilim/) (2 days ago)
-- [Gürültülü Dünyada Akıl Sağlığını Koruma Rehberi](https://blog.emre.xyz/posts/gurultulu-dunyada-akil-sagligini-koruma-rehberi/) (2 days ago)
-- [İzmir Yanıyor](https://blog.emre.xyz/posts/izmir-yaniyor/) (4 days ago)
+- [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (3 days ago)
+- [Nasılım?](https://blog.emre.xyz/posts/nasilim/) (3 days ago)
+- [Gürültülü Dünyada Akıl Sağlığını Koruma Rehberi](https://blog.emre.xyz/posts/gurultulu-dunyada-akil-sagligini-koruma-rehberi/) (3 days ago)
+- [İzmir Yanıyor](https://blog.emre.xyz/posts/izmir-yaniyor/) (5 days ago)
 - [Kediler Nasıllar? - 3](https://blog.emre.xyz/posts/kediler-nasillar-3/) (1 week ago)
 
 #### 📚 Currently Reading
