@@ -57,12 +57,12 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (4 days ago)
-- [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (5 days ago)
+- [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (6 days ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 week ago)
 - [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (2 weeks ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 weeks ago)
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (2 weeks ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (3 weeks ago)
 - [delirehberi/news](https://github.com/delirehberi/news) -  (1 month ago)
 - [delirehberi/deniz-goktas-olu-deniz](https://github.com/delirehberi/deniz-goktas-olu-deniz) - Transcript (1 month ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 month ago)
@@ -83,10 +83,10 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (4 days ago)
-- [Nasılım?](https://blog.emre.xyz/posts/nasilim/) (4 days ago)
-- [Gürültülü Dünyada Akıl Sağlığını Koruma Rehberi](https://blog.emre.xyz/posts/gurultulu-dunyada-akil-sagligini-koruma-rehberi/) (4 days ago)
-- [İzmir Yanıyor](https://blog.emre.xyz/posts/izmir-yaniyor/) (6 days ago)
+- [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (5 days ago)
+- [Nasılım?](https://blog.emre.xyz/posts/nasilim/) (5 days ago)
+- [Gürültülü Dünyada Akıl Sağlığını Koruma Rehberi](https://blog.emre.xyz/posts/gurultulu-dunyada-akil-sagligini-koruma-rehberi/) (5 days ago)
+- [İzmir Yanıyor](https://blog.emre.xyz/posts/izmir-yaniyor/) (1 week ago)
 - [Kediler Nasıllar? - 3](https://blog.emre.xyz/posts/kediler-nasillar-3/) (1 week ago)
 
 #### 📚 Currently Reading
