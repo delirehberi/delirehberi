@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (3 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
+- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (4 days ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (1 week ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (2 weeks ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
@@ -83,8 +83,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (3 days ago)
-- [Şükür, İsyan ve Manipülasyon](https://blog.emre.xyz/posts/sukur-isyan-ve-manipulasyon/) (4 days ago)
+- [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (4 days ago)
+- [Şükür, İsyan ve Manipülasyon](https://blog.emre.xyz/posts/sukur-isyan-ve-manipulasyon/) (5 days ago)
 - [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (1 week ago)
 - [Nasılım?](https://blog.emre.xyz/posts/nasilim/) (1 week ago)
 - [Gürültülü Dünyada Akıl Sağlığını Koruma Rehberi](https://blog.emre.xyz/posts/gurultulu-dunyada-akil-sagligini-koruma-rehberi/) (1 week ago)
