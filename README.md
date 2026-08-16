@@ -57,8 +57,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 👷 Check out what I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (2 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
+- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (3 days ago)
 - [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (1 week ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (2 weeks ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (3 weeks ago)
@@ -83,8 +83,8 @@ I am a battle-tested closer who values clean implementation over over-engineerin
 
 #### 📜 My recent blog posts
 
-- [Bilo the Bunker!](https://blog.emre.xyz/posts/bilo-the-bunker/) (2 days ago)
-- [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (3 days ago)
+- [Bilo the Bunker!](https://blog.emre.xyz/posts/bilo-the-bunker/) (3 days ago)
+- [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (4 days ago)
 - [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (1 week ago)
 - [Şükür, İsyan ve Manipülasyon](https://blog.emre.xyz/posts/sukur-isyan-ve-manipulasyon/) (1 week ago)
 - [Şeffaflık Neden Bazen Sadece Bir Hayaldir?](https://blog.emre.xyz/posts/seffaflik-neden-bazen-sadece-hayaldir/) (2 weeks ago)
