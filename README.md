@@ -73,9 +73,9 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (4 days ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (5 days ago)
-- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 day ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 day ago)
+- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (1 week ago)
 - [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (2 weeks ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (3 weeks ago)
 - [workouse/site-v2](https://github.com/workouse/site-v2) -  (1 month ago)
@@ -99,11 +99,11 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (4 days ago)
+- [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (5 days ago)
 - [Bilo the Bunker!](https://blog.emre.xyz/posts/bilo-the-bunker/) (1 week ago)
 - [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (1 week ago)
 - [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (2 weeks ago)
-- [Şükür, İsyan ve Manipülasyon](https://blog.emre.xyz/posts/sukur-isyan-ve-manipulasyon/) (2 weeks ago)
+- [Şükür, İsyan ve Manipülasyon](https://blog.emre.xyz/posts/sukur-isyan-ve-manipulasyon/) (3 weeks ago)
 
 #### 📫 Connect & Stalk
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com)
