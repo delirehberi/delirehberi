@@ -73,11 +73,11 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (2 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
-- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (4 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (5 days ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (6 days ago)
+- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (3 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 days ago)
+- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (5 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (6 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 week ago)
 - [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (1 week ago)
 - [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (3 weeks ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (1 month ago)
@@ -99,7 +99,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (5 days ago)
+- [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (6 days ago)
 - [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (1 week ago)
 - [Bilo the Bunker!](https://blog.emre.xyz/posts/bilo-the-bunker/) (2 weeks ago)
 - [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (2 weeks ago)
