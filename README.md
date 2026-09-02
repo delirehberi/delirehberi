@@ -73,15 +73,15 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/code](https://github.com/delirehberi/code) - An open-source, decentralized code snippet sharing platform built on Nostr (NIP-C0: kind:1337), powered by Cloudflare Workers, Hono, React 19, and Tailwind CSS. (1 day ago)
-- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (1 day ago)
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (1 day ago)
-- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (4 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (5 days ago)
+- [delirehberi/code](https://github.com/delirehberi/code) - An open-source, decentralized code snippet sharing platform built on Nostr (NIP-C0: kind:1337), powered by Cloudflare Workers, Hono, React 19, and Tailwind CSS. (2 days ago)
+- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (2 days ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (2 days ago)
+- [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (5 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 week ago)
 - [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (2 weeks ago)
-- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (3 weeks ago)
+- [workouse/qr-menu](https://github.com/workouse/qr-menu) - QR Menu application for venues (4 weeks ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (1 month ago)
 
 #### 🌱 My latest projects
@@ -102,8 +102,8 @@ I build across distinct paradigms, selecting the best technology for the job:
 - [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (1 week ago)
 - [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (1 week ago)
 - [Bilo the Bunker!](https://blog.emre.xyz/posts/bilo-the-bunker/) (2 weeks ago)
-- [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (2 weeks ago)
-- [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (3 weeks ago)
+- [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/) (3 weeks ago)
+- [How I&#39;ve been hacked by Subdomain Takeover - Shopify](https://blog.emre.xyz/posts/how-i-hacked-by-subdomain-takeover-shopify/) (4 weeks ago)
 
 #### 📫 Connect & Stalk
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com)
