@@ -73,9 +73,9 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (2 days ago)
-- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (3 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
+- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (3 days ago)
+- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (4 days ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (1 week ago)
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) -  (1 week ago)
@@ -99,7 +99,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (2 days ago)
+- [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (3 days ago)
 - [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (1 week ago)
 - [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (2 weeks ago)
 - [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (3 weeks ago)
