@@ -73,16 +73,16 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (5 days ago)
-- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (5 days ago)
-- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (6 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (6 days ago)
+- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (6 days ago)
+- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (1 week ago)
 - [workouse/nostr-bridge](https://github.com/workouse/nostr-bridge) -  Bridge Any Webhook to Nostr Relays in Seconds  Transform GitHub releases, Stripe payments, RSS feeds, and custom HTTP payloads into cryptographically signed Nostr events delivered at sub-second edge speed.  (1 week ago)
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) -  (1 week ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 week ago)
 - [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (1 week ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 week ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (1 week ago)
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (1 week ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -99,7 +99,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (5 days ago)
+- [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (6 days ago)
 - [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (1 week ago)
 - [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (2 weeks ago)
 - [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (3 weeks ago)
