@@ -73,14 +73,14 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 day ago)
-- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (2 days ago)
-- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (2 days ago)
-- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (2 days ago)
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (2 days ago)
-- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (2 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
-- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (4 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
+- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (3 days ago)
+- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (3 days ago)
+- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (3 days ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (3 days ago)
+- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (3 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 days ago)
+- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (5 days ago)
 - [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (2 weeks ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (2 weeks ago)
 
@@ -99,7 +99,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [Adım Adım Nostr&#39;a Giriş Rehberi](https://blog.emre.xyz/posts/adim-adim-nostr-giris-rehberi/) (4 days ago)
+- [Adım Adım Nostr&#39;a Giriş Rehberi](https://blog.emre.xyz/posts/adim-adim-nostr-giris-rehberi/) (5 days ago)
 - [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (1 week ago)
 - [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (2 weeks ago)
 - [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (3 weeks ago)
