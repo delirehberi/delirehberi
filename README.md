@@ -73,13 +73,13 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (2 days ago)
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (5 days ago)
-- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (5 days ago)
-- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (5 days ago)
-- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (5 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
+- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (3 days ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) -  (6 days ago)
+- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (6 days ago)
+- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (6 days ago)
+- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) -  (6 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
 - [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (1 week ago)
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem (2 weeks ago)
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (2 weeks ago)
@@ -101,7 +101,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 - [Adım Adım Nostr&#39;a Giriş Rehberi](https://blog.emre.xyz/posts/adim-adim-nostr-giris-rehberi/) (1 week ago)
 - [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (2 weeks ago)
-- [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (2 weeks ago)
+- [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (3 weeks ago)
 - [Tolerasyon Ülkesi](https://blog.emre.xyz/posts/tolerasyon-ulkesi/) (4 weeks ago)
 - [Nostr Nasıl Gidiyor?](https://blog.emre.xyz/posts/nostr-nasil-gidiyor/) (1 month ago)
 
