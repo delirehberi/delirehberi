@@ -73,10 +73,10 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) - Türkiye&#39;deki Nostr kullanıcılarını, geliştiricilerini ve içerik üreticilerini bir araya getiren açık kaynaklı topluluk platformu. (1 day ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 day ago)
-- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (1 day ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (2 days ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) - Türkiye&#39;deki Nostr kullanıcılarını, geliştiricilerini ve içerik üreticilerini bir araya getiren açık kaynaklı topluluk platformu. (2 days ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
+- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (2 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (3 days ago)
 - [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (1 week ago)
 - [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (1 week ago)
 - [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) - A sovereign, decentralized event photo album platform built on the Nostr protocol, Blossom serverless media servers, and Bitcoin Lightning Network. (1 week ago)
@@ -99,8 +99,8 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [Yeni bir blog platformu!](https://blog.emre.xyz/posts/yeni-bir-blog-platformu/) (1 day ago)
-- [Kediler Nasıllar? - 4](https://blog.emre.xyz/posts/kediler-nasillar-4/) (2 days ago)
+- [Yeni bir blog platformu!](https://blog.emre.xyz/posts/yeni-bir-blog-platformu/) (2 days ago)
+- [Kediler Nasıllar? - 4](https://blog.emre.xyz/posts/kediler-nasillar-4/) (3 days ago)
 - [Adım Adım Nostr&#39;a Giriş Rehberi](https://blog.emre.xyz/posts/adim-adim-nostr-giris-rehberi/) (1 week ago)
 - [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (2 weeks ago)
 - [Nostr Türkiye Topluluğu Yayında!](https://blog.emre.xyz/posts/nostr-turkiye-toplulugu-yayinda/) (3 weeks ago)
