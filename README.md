@@ -73,19 +73,20 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (2 days ago)
-- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (2 days ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (2 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (2 days ago)
-- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (3 days ago)
-- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) - Türkiye&#39;deki Nostr kullanıcılarını, geliştiricilerini ve içerik üreticilerini bir araya getiren açık kaynaklı topluluk platformu. (3 days ago)
-- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (1 week ago)
-- [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) - A sovereign, decentralized event photo album platform built on the Nostr protocol, Blossom serverless media servers, and Bitcoin Lightning Network. (1 week ago)
-- [Nostr-org-tr/rehber.dev](https://github.com/Nostr-org-tr/rehber.dev) - Free NIP-05 identity (adınız@rehber.dev), Lightning address redirection (routing zaps/tips to Alby, Wallet of Satoshi, or custom Lightning wallets), zero server configuration needed. (2 weeks ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (today)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (today)
+- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (1 day ago)
+- [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.). (1 day ago)
+- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (3 days ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (3 days ago)
+- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (3 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
+- [Nostr-org-tr/nostr.org.tr](https://github.com/Nostr-org-tr/nostr.org.tr) - Türkiye&#39;deki Nostr kullanıcılarını, geliştiricilerini ve içerik üreticilerini bir araya getiren açık kaynaklı topluluk platformu. (4 days ago)
+- [Nostr-org-tr/.github](https://github.com/Nostr-org-tr/.github) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.).
 - [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) - A sovereign, decentralized event photo album platform built on the Nostr protocol, Blossom serverless media servers, and Bitcoin Lightning Network.
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies.
 - [delirehberi/code](https://github.com/delirehberi/code) - An open-source, decentralized code snippet sharing platform built on Nostr (NIP-C0: kind:1337), powered by Cloudflare Workers, Hono, React 19, and Tailwind CSS.
@@ -95,15 +96,14 @@ I build across distinct paradigms, selecting the best technology for the job:
 - [delirehberi/figma-mcp-browser](https://github.com/delirehberi/figma-mcp-browser) - Free Figma MCP Server 
 - [delirehberi/nostr-media-gallery](https://github.com/delirehberi/nostr-media-gallery) - Nostr media gallery extension, enter a users profile in any client and click the generate gallery in extension. It will load all images and will generate temporary gallery page. 
 - [delirehberi/nostr.hs](https://github.com/delirehberi/nostr.hs) - Nostr client library for haskell ecosystem
-- [delirehberi/journal-guardian](https://github.com/delirehberi/journal-guardian) - Journal/Log Watcher with LLM explanations for errors
 
 #### 📜 Recent writing
 
-- [Owner, Not User](https://blog.emre.xyz/posts/owner-not-user/) (2 days ago)
-- [Yeni bir blog platformu!](https://blog.emre.xyz/posts/yeni-bir-blog-platformu/) (6 days ago)
+- [Mızmız Schopenhauer!](https://blog.emre.xyz/posts/mzmz-schopenhauer/) (today)
+- [Why I Like Quiet Tools](https://blog.emre.xyz/posts/why-i-like-quiet-tools/) (1 day ago)
+- [Owner, Not User](https://blog.emre.xyz/posts/owner-not-user/) (3 days ago)
+- [Yeni bir blog platformu!](https://blog.emre.xyz/posts/yeni-bir-blog-platformu/) (1 week ago)
 - [Kediler Nasıllar? - 4](https://blog.emre.xyz/posts/kediler-nasillar-4/) (1 week ago)
-- [Adım Adım Nostr&#39;a Giriş Rehberi](https://blog.emre.xyz/posts/adim-adim-nostr-giris-rehberi/) (2 weeks ago)
-- [İnternet Değişiyor](https://blog.emre.xyz/posts/internet-degisiyor/) (3 weeks ago)
 
 #### 📫 Connect & Stalk
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com)
