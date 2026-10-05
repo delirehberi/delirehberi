@@ -73,16 +73,16 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (2 days ago)
-- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (2 days ago)
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (3 days ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (3 days ago)
-- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (4 days ago)
-- [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.). (4 days ago)
-- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (6 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (6 days ago)
-- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (6 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (today)
+- [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.). (1 day ago)
+- [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (1 day ago)
+- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (1 day ago)
+- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (4 days ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (4 days ago)
+- [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (5 days ago)
+- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (1 week ago)
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command. (1 week ago)
+- [Nostr-org-tr/nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) - A lightweight, zero-config Web Component (&lt;nostr-event&gt;) to embed and render Nostr events across any website or application. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -99,9 +99,9 @@ I build across distinct paradigms, selecting the best technology for the job:
 
 #### 📜 Recent writing
 
-- [Mızmız Schopenhauer!](https://blog.emre.xyz/posts/mzmz-schopenhauer/) (3 days ago)
-- [Why I Like Quiet Tools](https://blog.emre.xyz/posts/why-i-like-quiet-tools/) (4 days ago)
-- [Owner, Not User](https://blog.emre.xyz/posts/owner-not-user/) (6 days ago)
+- [Mızmız Schopenhauer!](https://blog.emre.xyz/posts/mzmz-schopenhauer/) (4 days ago)
+- [Why I Like Quiet Tools](https://blog.emre.xyz/posts/why-i-like-quiet-tools/) (5 days ago)
+- [Owner, Not User](https://blog.emre.xyz/posts/owner-not-user/) (1 week ago)
 - [Yeni bir blog platformu!](https://blog.emre.xyz/posts/yeni-bir-blog-platformu/) (1 week ago)
 - [Kediler Nasıllar? - 4](https://blog.emre.xyz/posts/kediler-nasillar-4/) (1 week ago)
 
