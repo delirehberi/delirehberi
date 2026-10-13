@@ -14,7 +14,12 @@ I am the Founder and Lead Developer at **[Workouse](https://workouse.com)**, whe
 
 Explore what I'm actively building. See [emre.xyz/projects](https://emre.xyz/projects) for the full list:
 - ✍️ **[Jotstr](https://jotstr.com)** — A blog you actually own, built on Nostr. Publish long-form posts (NIP-23) under your own keys and domain, with no platform lock-in. I built it, and it's live now. [Read the launch post](https://blog.emre.xyz/posts/jotstr-yayinda/)
-- 🌉 **Workouse Bridge** — Seamless integration and connectivity. [Explore Bridge](https://bridge.workouse.com)
+- 🌉 **[NostrBridge](https://bridge.workouse.com)** — Turns GitHub, Stripe and RSS webhooks into signed Nostr notes at the Cloudflare edge. [Docs](https://bridge.workouse.com/docs)
+- 📍 **[100m](https://100m.workouse.com)** — A location-verified social room for real-world venues. Privacy first, social second.
+- 🧩 **[Snips](https://snips.emre.xyz)** — Code snippets and gists on Nostr (NIP-C0) with Jupyter rendering.
+- 🔁 **[x2nostr](https://x2nostr.emre.xyz)** — Client-side migration of Goodreads, IMDb, Spotify, Twitter and blog data into Nostr.
+- 🪪 **[rehber.dev](https://rehber.dev)** — Free NIP-05 identities with Lightning address redirection.
+- 📰 **[News](https://news.emre.xyz)** — A fully autonomous AI news aggregator on Cloudflare Workers and Nostr.
 
 ---
 
