@@ -12,10 +12,14 @@ My strength lies in exceptional technical adaptability and pattern recognition. 
 
 I am the Founder and Lead Developer at **[Workouse](https://workouse.com)**, where we build and scale modern web solutions. 
 
-Explore our flagship products designed to streamline your infrastructure and workflows:
-- 🛡️ **Bilo Bunker** — Secure and robust operational solutions. [Repo](https://github.com/workouse/bilo-bunker)
-- 🌉 **Workouse Bridge** — Seamless integration and connectivity. [Explore Bridge](https://bridge.workouse.com)
-- 🤖 **Workouse AI Gateway** — Intelligent API routing and AI management. [Explore AI Gateway](https://ai-gateway.workouse.com)
+Explore what I'm actively building. See [emre.xyz/projects](https://emre.xyz/projects) for the full list:
+- ✍️ **[Jotstr](https://jotstr.com)** — A blog you actually own, built on Nostr. Publish long-form posts (NIP-23) under your own keys and domain, with no platform lock-in. I built it, and it's live now. [Read the launch post](https://blog.emre.xyz/posts/jotstr-yayinda/)
+- 🌉 **[NostrBridge](https://bridge.workouse.com)** — Turns GitHub, Stripe and RSS webhooks into signed Nostr notes at the Cloudflare edge. [Docs](https://bridge.workouse.com/docs)
+- 📍 **[100m](https://100m.workouse.com)** — A location-verified social room for real-world venues. Privacy first, social second.
+- 🧩 **[Snips](https://snips.emre.xyz)** — Code snippets and gists on Nostr (NIP-C0) with Jupyter rendering.
+- 🔁 **[x2nostr](https://x2nostr.emre.xyz)** — Client-side migration of Goodreads, IMDb, Spotify, Twitter and blog data into Nostr.
+- 🪪 **[rehber.dev](https://rehber.dev)** — Free NIP-05 identities with Lightning address redirection.
+- 📰 **[News](https://news.emre.xyz)** — A fully autonomous AI news aggregator on Cloudflare Workers and Nostr.
 
 ---
 
@@ -23,7 +27,7 @@ Explore our flagship products designed to streamline your infrastructure and wor
 
 I am currently open to new opportunities, partnerships, and clients. 
 - 💼 **Hire Me:** Need an experienced engineer to build your next product, scale your Shopify ecosystem, or architect your backend? [Book a call with me](https://cal.emre.xyz) or check out my [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0).
-- 🛒 **Leverage My Products:** Accelerate your business with the Workouse suite above.
+- ✍️ **Try Jotstr:** Want a blog you own? Start one at [jotstr.com](https://jotstr.com).
 - ⚡ **Value for Value:** If my open-source tools or Nostr contributions have helped you, feel free to send some sats to my Lightning Wallet: `delirehberi@emre.xyz`
 
 ---
