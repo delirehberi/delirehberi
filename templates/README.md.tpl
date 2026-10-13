@@ -134,7 +134,7 @@ I am open to new projects, partnerships and clients.
 {{- end}}
 
 #### 📜 Recent writing
-{{range rss "https://blog.emre.xyz/index.xml" 5}}
+{{range rss "https://blog.emre.xyz/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 

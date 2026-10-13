@@ -15,7 +15,7 @@ A GitHub profile repository (`delirehberi/delirehberi`). It contains no applicat
 The template is Markdown with Go template directives. Three sections are filled in at render time:
 - "What I'm currently working on": `recentContributions 10`
 - "My latest projects": `recentRepos 10`
-- "Recent writing": `rss "https://blog.emre.xyz/index.xml" 5`
+- "Recent writing": `rss "https://blog.emre.xyz/rss.xml" 5`
 
 These lists change by themselves. To keep a repo out of them, you can't edit the output; it needs a change to the template or the workflow.
 
