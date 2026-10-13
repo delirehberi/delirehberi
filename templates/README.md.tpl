@@ -1,36 +1,89 @@
-<h3>Merhaba! 👋</h3>
+<h1 align="center">Emre Yılmaz</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=delirehberi&color=blueviolet&style=flat-square)![Since 2005](https://img.shields.io/badge/building%20since-2005-informational?style=flat-square&color=0d1117)
+<p align="center">
+  <b>Full-stack architect · Founder of <a href="https://workouse.com">Workouse</a> · Builder on the open web since 2005</b>
+</p>
 
-I am a veteran Full-Stack Engineer, Open Source Contributor, and Web Generalist. Having shipped applications continuously since 2005, I don't just write code—I architect scalable digital systems that drive business value. 
+<p align="center">
+  <a href="https://jotstr.com"><img src="https://img.shields.io/badge/Try%20Jotstr-8B5CF6?style=for-the-badge" alt="Try Jotstr" /></a>
+  <a href="https://cal.emre.xyz"><img src="https://img.shields.io/badge/Book%20a%20call-0d1117?style=for-the-badge" alt="Book a call" /></a>
+  <a href="https://workouse.com"><img src="https://img.shields.io/badge/Workouse-0d1117?style=for-the-badge" alt="Workouse" /></a>
+  <a href="https://emre.xyz/projects"><img src="https://img.shields.io/badge/All%20projects-0d1117?style=for-the-badge" alt="All projects" /></a>
+</p>
 
-My strength lies in exceptional technical adaptability and pattern recognition. Rather than hyper-specializing in a single tool, I leverage a broad, multi-paradigm ecosystem to solve complex problems pragmatically. I am a battle-tested closer who values clean implementation over over-engineering, rapidly deploying stable, decentralized, and commercial web systems.
+Merhaba! 👋 I have shipped web applications continuously since 2005. I architect and build scalable systems, from Shopify stores and PHP backends to Haskell libraries, Cloudflare Workers and Nostr infrastructure. I pick the right tool for the job, prefer clean implementation over over-engineering, and ship stable, decentralized and commercial web systems.
+
+---
+
+### ✍️ Featured: Jotstr — a blog you actually own
+
+> **[Jotstr](https://jotstr.com)** is a blogging platform I built on Nostr. Your posts are long-form Nostr articles (NIP-23) signed with your own keys and served from your own domain, so there is no platform lock-in and no one can take your writing away.
+>
+> 👉 **[Start your blog at jotstr.com](https://jotstr.com)** · [Read the launch post](https://blog.emre.xyz/posts/jotstr-yayinda/)
 
 ---
 
 ### 🚀 Workouse & Products
 
-I am the Founder and Lead Developer at **[Workouse](https://workouse.com)**, where we build and scale modern web solutions. 
+I am the Founder and Lead Developer at **[Workouse](https://workouse.com)**, where we build and scale modern web solutions. Here is what I am actively building (full list at [emre.xyz/projects](https://emre.xyz/projects)):
 
-Explore our flagship products designed to streamline your infrastructure and workflows:
-- 🛡️ **Bilo Bunker** — Secure and robust operational solutions. [Repo](https://github.com/workouse/bilo-bunker)
-- 🌉 **Workouse Bridge** — Seamless integration and connectivity. [Explore Bridge](https://bridge.workouse.com)
-- 🤖 **Workouse AI Gateway** — Intelligent API routing and AI management. [Explore AI Gateway](https://ai-gateway.workouse.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://jotstr.com">✍️ Jotstr</a></b><br/>
+      A blog you own, on Nostr, with your keys and your domain.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://bridge.workouse.com">🌉 NostrBridge</a></b><br/>
+      Turns GitHub, Stripe and RSS webhooks into signed Nostr notes at the Cloudflare edge.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://100m.workouse.com">📍 100m</a></b><br/>
+      A location-verified social room for real-world venues. Privacy first, social second.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://snips.emre.xyz">🧩 Snips</a></b><br/>
+      Code snippets and gists on Nostr (NIP-C0) with Jupyter rendering.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://x2nostr.emre.xyz">🔁 x2nostr</a></b><br/>
+      Client-side migration of Goodreads, IMDb, Spotify, Twitter and blog data into Nostr.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://rehber.dev">🪪 rehber.dev</a></b><br/>
+      Free NIP-05 identities with Lightning address redirection.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://news.emre.xyz">📰 News</a></b><br/>
+      A fully autonomous AI news aggregator on Cloudflare Workers and Nostr.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://photo.emre.xyz">📷 Photo</a></b><br/>
+      Decentralized event photo albums on Nostr, Blossom and Lightning.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Work With Me & Support
+### 🤝 Work With Me
 
-I am currently open to new opportunities, partnerships, and clients. 
-- 💼 **Hire Me:** Need an experienced engineer to build your next product, scale your Shopify ecosystem, or architect your backend? [Book a call with me](https://cal.emre.xyz) or check out my [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0).
-- 🛒 **Leverage My Products:** Accelerate your business with the Workouse suite above.
-- ⚡ **Value for Value:** If my open-source tools or Nostr contributions have helped you, feel free to send some sats to my Lightning Wallet: `delirehberi@emre.xyz`
+I am open to new projects, partnerships and clients.
+- 💼 **Hire me** to build your next product, scale your Shopify ecosystem or architect your backend. [Book a call](https://cal.emre.xyz) or find me on [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0).
+- 🏢 **Work with Workouse** for a team that ships. [workouse.com](https://workouse.com)
+- ✍️ **Own your writing.** Start a blog at [jotstr.com](https://jotstr.com).
+- ⚡ **Value for Value:** if my open-source tools or Nostr contributions helped you, send some sats to `delirehberi@emre.xyz`.
 
 ---
 
 ### 🛠 Technical Arsenal
 
-I build across distinct paradigms, selecting the best technology for the job:
 - **The Decentralized Web:** Nostr protocol architecture and open-source contributions.
 - **Polyglot Backend Engineering:** Haskell, PHP/Symfony, Python, and Node.js.
 - **Reproducible Infrastructure:** NixOS, Docker, and Cloudflare deployments.
@@ -54,8 +107,6 @@ I build across distinct paradigms, selecting the best technology for the job:
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=delirehberi&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
 ---
 
 ### 🔥 Featured Open Source Projects
@@ -65,6 +116,7 @@ I build across distinct paradigms, selecting the best technology for the job:
 | [nostr.hs](https://github.com/delirehberi/nostr.hs) | Nostr client library for Haskell | ![stars](https://img.shields.io/github/stars/delirehberi/nostr.hs?style=flat-square&color=gold) |
 | [hugo2nostr](https://github.com/delirehberi/hugo2nostr) | Bridge Hugo blogs → Nostr network (kind:30023) | ![stars](https://img.shields.io/github/stars/delirehberi/hugo2nostr?style=flat-square&color=gold) |
 | [nostrullah](https://github.com/delirehberi/nostrullah) | Serverless Nostr bot on Cloudflare Workers AI | ![stars](https://img.shields.io/github/stars/delirehberi/nostrullah?style=flat-square&color=gold) |
+| [nostr-event-dom](https://github.com/Nostr-org-tr/nostr-event-dom) | Zero-config `<nostr-event>` Web Component to embed Nostr events anywhere | ![stars](https://img.shields.io/github/stars/Nostr-org-tr/nostr-event-dom?style=flat-square&color=gold) |
 | [nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) | Readonly single-user Nostr client | ![stars](https://img.shields.io/github/stars/delirehberi/nostr-ro-client?style=flat-square&color=gold) |
 
 ---
@@ -72,25 +124,25 @@ I build across distinct paradigms, selecting the best technology for the job:
 ### 📡 Activity & Insights
 
 #### 👷 What I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 📜 Recent writing
-{{range rss "https://blog.emre.xyz/index.xml" 5}}
+{{range rss "https://blog.emre.xyz/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 📫 Connect & Stalk
-- **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com)
+#### 📫 Connect
+- **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
 - **Writing:** [Blog](https://blog.emre.xyz)
 - **Social:** [Nostr](https://nostr.emre.xyz) | [LinkedIn](https://linkedin.com/in/delirehberi) | [Lobsters](https://lobste.rs/~delirehberi)
 - **Media:** [YouTube](https://www.youtube.com/@delirehberi) | [Podcasts](https://anchor.fm/delirehberi) | [SoundCloud](https://soundcloud.com/delirehberi)
 - **Professional:** [Resume](https://emre.xyz/resume.pdf) | [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0) | [StackOverflow](https://stackoverflow.com/users/673223/delirehberi)
 
-<a href="https://stackoverflow.com/users/673223/delirehberi"><img src="https://stackoverflow.com/users/flair/673223.png" width="208" height="58" alt="profile for delirehberi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for delirehberi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/673223/delirehberi"><img src="https://stackoverflow.com/users/flair/673223.png" width="208" height="58" alt="profile for delirehberi at Stack Overflow" title="profile for delirehberi at Stack Overflow"></a>
