@@ -12,10 +12,9 @@ My strength lies in exceptional technical adaptability and pattern recognition. 
 
 I am the Founder and Lead Developer at **[Workouse](https://workouse.com)**, where we build and scale modern web solutions. 
 
-Explore our flagship products designed to streamline your infrastructure and workflows:
-- 🛡️ **Bilo Bunker** — Secure and robust operational solutions. [Repo](https://github.com/workouse/bilo-bunker)
+Explore what I'm actively building. See [emre.xyz/projects](https://emre.xyz/projects) for the full list:
+- ✍️ **[Jotstr](https://jotstr.com)** — A blog you actually own, built on Nostr. Publish long-form posts (NIP-23) under your own keys and domain, with no platform lock-in. I built it, and it's live now. [Read the launch post](https://blog.emre.xyz/posts/jotstr-yayinda/)
 - 🌉 **Workouse Bridge** — Seamless integration and connectivity. [Explore Bridge](https://bridge.workouse.com)
-- 🤖 **Workouse AI Gateway** — Intelligent API routing and AI management. [Explore AI Gateway](https://ai-gateway.workouse.com)
 
 ---
 
@@ -23,7 +22,7 @@ Explore our flagship products designed to streamline your infrastructure and wor
 
 I am currently open to new opportunities, partnerships, and clients. 
 - 💼 **Hire Me:** Need an experienced engineer to build your next product, scale your Shopify ecosystem, or architect your backend? [Book a call with me](https://cal.emre.xyz) or check out my [Upwork](https://www.upwork.com/freelancers/~0193fd6a7c0c7d5cb0).
-- 🛒 **Leverage My Products:** Accelerate your business with the Workouse suite above.
+- ✍️ **Try Jotstr:** Want a blog you own? Start one at [jotstr.com](https://jotstr.com).
 - ⚡ **Value for Value:** If my open-source tools or Nostr contributions have helped you, feel free to send some sats to my Lightning Wallet: `delirehberi@emre.xyz`
 
 ---
@@ -77,7 +76,6 @@ I build across distinct paradigms, selecting the best technology for the job:
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (2 days ago)
 - [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.). (3 days ago)
 - [delirehberi/nostrullah](https://github.com/delirehberi/nostrullah) - A serverless, headless Nostr bot built on Cloudflare Workers. This bot automatically generates and publishes content to Nostr relays using Cloudflare Workers AI (gpt-oss) based on a configurable schedule and categories. (3 days ago)
-- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (3 days ago)
 - [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (6 days ago)
 - [Nostr-org-tr/cache-server](https://github.com/Nostr-org-tr/cache-server) - High-Performance Pull-Through Cache Nostr Relay built on Cloudflare Workers, Durable Objects (SQLite-backed WebSocket sessions), and Cloudflare D1. (1 week ago)
 - [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol. (1 week ago)
