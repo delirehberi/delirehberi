@@ -125,8 +125,8 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (2 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (3 days ago)
+- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (3 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (4 days ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
 - [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (1 week ago)
@@ -141,9 +141,9 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (2 days ago)
-- [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (3 days ago)
-- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (6 days ago)
+- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (3 days ago)
+- [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (4 days ago)
+- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (1 week ago)
 - [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (1 week ago)
 - [jotstr.com Yayında: Nostr Üzerinde Sahibi Olduğun Bir Blog](https://blog.emre.xyz/jotstr-yayinda) (1 week ago)
 
