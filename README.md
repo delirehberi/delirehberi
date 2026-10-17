@@ -125,11 +125,11 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (4 days ago)
-- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (5 days ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 day ago)
+- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (5 days ago)
+- [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (6 days ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
-- [workouse/bilo-bunker](https://github.com/workouse/bilo-bunker) - stateful, multi-tenant Nostr remote signing service (NIP-46). (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -141,8 +141,8 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (4 days ago)
-- [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (5 days ago)
+- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (5 days ago)
+- [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (6 days ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (1 week ago)
 - [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (1 week ago)
 - [jotstr.com Yayında: Nostr Üzerinde Sahibi Olduğun Bir Blog](https://blog.emre.xyz/jotstr-yayinda) (1 week ago)
