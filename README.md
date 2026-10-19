@@ -125,11 +125,11 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (2 days ago)
-- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (6 days ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (today)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 day ago)
+- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (1 week ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
-- [delirehberi/hugo-emrexyz](https://github.com/delirehberi/hugo-emrexyz) - Hugo based personal blog (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -141,11 +141,11 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (6 days ago)
+- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (1 week ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (1 week ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (1 week ago)
 - [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (1 week ago)
-- [jotstr.com Yayında: Nostr Üzerinde Sahibi Olduğun Bir Blog](https://blog.emre.xyz/jotstr-yayinda) (1 week ago)
+- [jotstr.com Yayında: Nostr Üzerinde Sahibi Olduğun Bir Blog](https://blog.emre.xyz/jotstr-yayinda) (2 weeks ago)
 
 #### 📫 Connect
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
