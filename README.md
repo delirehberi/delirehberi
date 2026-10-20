@@ -125,26 +125,26 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (today)
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 day ago)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 day ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (2 days ago)
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (1 week ago)
 - [delirehberi/nostr-ro-client](https://github.com/delirehberi/nostr-ro-client) - Readonly nostr client for a single user. preview url: nostr.emre.xyz (1 week ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) - 
 - [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.).
 - [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) - A sovereign, decentralized event photo album platform built on the Nostr protocol, Blossom serverless media servers, and Bitcoin Lightning Network.
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies.
 - [delirehberi/code](https://github.com/delirehberi/code) - An open-source, decentralized code snippet sharing platform built on Nostr (NIP-C0: kind:1337), powered by Cloudflare Workers, Hono, React 19, and Tailwind CSS.
-- [delirehberi/x2nostr](https://github.com/delirehberi/x2nostr) - Universal, client-side sovereign data migration platform from centralized services to the Nostr protocol.
 
 #### 📜 Recent writing
 
 - [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (1 week ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (1 week ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (1 week ago)
-- [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (1 week ago)
+- [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (2 weeks ago)
 - [jotstr.com Yayında: Nostr Üzerinde Sahibi Olduğun Bir Blog](https://blog.emre.xyz/jotstr-yayinda) (2 weeks ago)
 
 #### 📫 Connect
