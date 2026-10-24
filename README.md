@@ -125,10 +125,10 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (3 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 days ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (4 days ago)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (1 day ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (4 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (4 days ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (5 days ago)
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (1 week ago)
 
 #### 🌱 My latest projects
@@ -141,7 +141,7 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (2 days ago)
+- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (3 days ago)
 - [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (1 week ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (1 week ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (2 weeks ago)
