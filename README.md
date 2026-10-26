@@ -125,11 +125,11 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (2 days ago)
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (5 days ago)
-- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (5 days ago)
-- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (6 days ago)
-- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (1 week ago)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (3 days ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (6 days ago)
+- [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (6 days ago)
+- [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 week ago)
+- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -141,8 +141,8 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (4 days ago)
-- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (1 week ago)
+- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (5 days ago)
+- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (2 weeks ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (2 weeks ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (2 weeks ago)
 - [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (2 weeks ago)
