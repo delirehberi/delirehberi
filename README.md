@@ -125,27 +125,27 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (4 days ago)
-- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 week ago)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
+- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (1 day ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
+- [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 week ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 week ago)
-- [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed.
 - [delirehberi/bitig](https://github.com/delirehberi/bitig) - 
 - [delirehberi/ai-polish-text](https://github.com/delirehberi/ai-polish-text) - LLM Text Polisher is a cross-browser (Chrome &amp; Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press Alt&#43;P), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.).
 - [delirehberi/photo.emre.xyz](https://github.com/delirehberi/photo.emre.xyz) - A sovereign, decentralized event photo album platform built on the Nostr protocol, Blossom serverless media servers, and Bitcoin Lightning Network.
 - [delirehberi/cal.emre.xyz](https://github.com/delirehberi/cal.emre.xyz) - An open-source, decentralized calendar and appointment booking platform built on the Nostr protocol (NIP-52). Deployable globally to Cloudflare Workers with zero database dependencies.
-- [delirehberi/code](https://github.com/delirehberi/code) - An open-source, decentralized code snippet sharing platform built on Nostr (NIP-C0: kind:1337), powered by Cloudflare Workers, Hono, React 19, and Tailwind CSS.
 
 #### 📜 Recent writing
 
-- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (6 days ago)
+- [Ne sofraymış be...](https://blog.emre.xyz/ne-sofrayms-be) (1 day ago)
+- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (1 week ago)
 - [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (2 weeks ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (2 weeks ago)
 - [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (2 weeks ago)
-- [Kedi Diyarı](https://blog.emre.xyz/kedi-diyari) (3 weeks ago)
 
 #### 📫 Connect
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
