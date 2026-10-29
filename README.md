@@ -125,8 +125,8 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
-- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (1 day ago)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (1 day ago)
+- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (2 days ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 week ago)
 - [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 week ago)
 - [workouse/sitemap-checker](https://github.com/workouse/sitemap-checker) - a tool for validate xml sitemap and sitemap index files for broken links (1 week ago)
@@ -141,11 +141,11 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
-- [Ne sofraymış be...](https://blog.emre.xyz/ne-sofrayms-be) (1 day ago)
+- [Ne sofraymış be...](https://blog.emre.xyz/ne-sofrayms-be) (2 days ago)
 - [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (1 week ago)
 - [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (2 weeks ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (2 weeks ago)
-- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (2 weeks ago)
+- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (3 weeks ago)
 
 #### 📫 Connect
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
