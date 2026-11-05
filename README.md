@@ -125,7 +125,7 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (4 days ago)
+- [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (5 days ago)
 - [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (2 weeks ago)
 - [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (2 weeks ago)
@@ -145,7 +145,7 @@ I am open to new projects, partnerships and clients.
 - [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (2 weeks ago)
 - [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (3 weeks ago)
 - [Do not build apps!](https://blog.emre.xyz/stop-coding-tools-unless) (3 weeks ago)
-- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (3 weeks ago)
+- [Saklayacak Bir Şeyim Yok!](https://blog.emre.xyz/saklayacak-bir-seyim-yok) (4 weeks ago)
 
 #### 📫 Connect
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
