@@ -125,7 +125,7 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (1 day ago)
 - [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 day ago)
 - [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (1 week ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (3 weeks ago)
