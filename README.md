@@ -125,7 +125,7 @@ I am open to new projects, partnerships and clients.
 
 #### 👷 What I'm currently working on
 
-- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (today)
+- [delirehberi/bitig](https://github.com/delirehberi/bitig) -  (1 day ago)
 - [delirehberi/news](https://github.com/delirehberi/news) - A fully autonomous, self-hosted AI News Aggregator powered by Cloudflare Workers, Vectorize, D1, and Nostr. (1 week ago)
 - [delirehberi/agent-dot](https://github.com/delirehberi/agent-dot) - Unified multi-agent dotfiles, operating directives, language-specific engineering standards, skills, and editor/CLI configuration templates for Claude Code, OpenAI Codex, Google Gemini / Antigravity, and Zed. (2 weeks ago)
 - [delirehberi/emre.xyz](https://github.com/delirehberi/emre.xyz) - Personal landing page (1 month ago)
@@ -141,11 +141,11 @@ I am open to new projects, partnerships and clients.
 
 #### 📜 Recent writing
 
+- [Himalayalardan Gelen Üçkâğıt](https://blog.emre.xyz/himalayalardan-gelen-uckagt) (1 day ago)
+- [Aynen Amin](https://blog.emre.xyz/aynen-amin) (1 day ago)
 - [Otopoez&#39;i Bilmeyen Yunus Emre](https://blog.emre.xyz/otopoezi-bilmeyen-yunus-emre) (1 week ago)
 - [Bitig - AI Orkestrası ve iş yöneticisi](https://blog.emre.xyz/bitig-ai-orkestrasi-ve-is-yoneticisi) (1 week ago)
 - [Ne sofraymış be...](https://blog.emre.xyz/ne-sofrayms-be) (3 weeks ago)
-- [Taciz Kültürüne Bir Örnek](https://blog.emre.xyz/taciz-kulturune-bir-ornek) (4 weeks ago)
-- [My Tooling: A Workflow Story](https://blog.emre.xyz/my-tooling-a-workflow-story) (1 month ago)
 
 #### 📫 Connect
 - **Websites:** [emre.xyz](https://emre.xyz) | [Workouse](https://workouse.com) | [Jotstr](https://jotstr.com)
